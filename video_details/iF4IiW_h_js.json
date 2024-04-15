@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "e9iJmV4kdoamQoAQb1c1Sn929NE",
+  "id": "iF4IiW_h_js",
+  "snippet": {
+    "publishedAt": "2016-03-11T11:02:26Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Обзор игрушек Монстер Хай 4 Куклы Монстр Хай Распаковка Monster High dolls unboxing",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iF4IiW_h_js/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iF4IiW_h_js/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iF4IiW_h_js/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/iF4IiW_h_js/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Куклы Monster High Обзор",
+      "Куклы",
+      "Monster High",
+      "Monster",
+      "High",
+      "Обзор",
+      "Монстер Хай",
+      "Монстер",
+      "Хай",
+      "Монстр Хай",
+      "Распаковка",
+      "dolls",
+      "unboxing",
+      "Кидс Диана Шоу",
+      "Kids Diana Show",
+      "маленькая девочка раскрывает сюрпризы",
+      "распаковывает яйца",
+      "девочка играется игрушками",
+      "обзор игрушек",
+      "детский канал",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "маленькая девочка открывает сюрпризы",
+      "видео для детей",
+      "Toys",
+      "Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "Monster High dolls unboxing",
+      "4 Куклы Монстр Хай"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Обзор игрушек Монстер Хай 4 Куклы Монстр Хай Распаковка Monster High dolls unboxing",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT8M15S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "864366",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/iF4IiW_h_js\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
