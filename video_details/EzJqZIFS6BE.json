@@ -1,0 +1,104 @@
+{
+  "kind": "youtube#video",
+  "etag": "4GulbPVsTC_MvQKy9iYTHsifys8",
+  "id": "EzJqZIFS6BE",
+  "snippet": {
+    "publishedAt": "2016-02-22T17:44:11Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Обзор Игрушки Кукла Штеффи Baby doll Unboxing Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/EzJqZIFS6BE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/EzJqZIFS6BE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/EzJqZIFS6BE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/EzJqZIFS6BE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "кукла",
+      "куклы",
+      "Штеффи",
+      "игрушки",
+      "обзор",
+      "Baby doll",
+      "Unboxing",
+      "Кидс Диана Шоу",
+      "маленькая девочка раскрывает сюрпризы",
+      "девочка с мамой снимают видео",
+      "развивающие мультики",
+      "канал",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "киндер сюрприз",
+      "обзор игрушек",
+      "девочка играется игрушками",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "маленькая девочка открывает сюрпризы",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "reality show online",
+      "unboxing videos",
+      "Toys",
+      "Kids Diana Show"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Обзор Игрушки Кукла Штеффи Baby doll Unboxing Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT13M16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "967616",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/EzJqZIFS6BE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
