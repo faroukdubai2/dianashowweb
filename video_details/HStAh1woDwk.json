@@ -1,0 +1,105 @@
+{
+  "kind": "youtube#video",
+  "etag": "16zcorz6tsuh-DjfAFIrJVJ2e_0",
+  "id": "HStAh1woDwk",
+  "snippet": {
+    "publishedAt": "2017-01-20T15:00:34Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Празднуем День Рождение Куклы Беби Бон - МНОГО ПОДАРКОВ и Торт Видео для Детей",
+    "description": "Празднуем День Рождение Куклы Беби Бон - МНОГО ПОДАРКОВ и Торт Видео для Детей Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HStAh1woDwk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HStAh1woDwk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HStAh1woDwk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/HStAh1woDwk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "День Рождения",
+      "Куклы",
+      "Беби Бон",
+      "МНОГО ПОДАРКОВ",
+      "Торт",
+      "Видео для Детей",
+      "Кукла",
+      "Baby Born",
+      "для Девочек",
+      "кукла беби бон",
+      "День",
+      "Рождения",
+      "для Куклы",
+      "Игры для Девочек",
+      "Birthday Baby Born",
+      "видео для девочек",
+      "про куклы",
+      "Baby Born doll",
+      "Diana",
+      "Kids Diana Show",
+      "Рома и Диана",
+      "диана",
+      "беби борн",
+      "играем в куклы",
+      "куклы пупсики",
+      "игрушки",
+      "для детей",
+      "пупсики",
+      "Диана шоу",
+      "беби бон видео",
+      "для малышей"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Празднуем День Рождение Куклы Беби Бон - МНОГО ПОДАРКОВ и Торт Видео для Детей",
+      "description": "Празднуем День Рождение Куклы Беби Бон - МНОГО ПОДАРКОВ и Торт Видео для Детей Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    }
+  },
+  "contentDetails": {
+    "duration": "PT14M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "26294596",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HStAh1woDwk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
