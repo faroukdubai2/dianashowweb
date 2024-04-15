@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "aljy1P8RE8hY61qk2g7uiz6dVNM",
+  "id": "fYtVjA7dfjg",
+  "snippet": {
+    "publishedAt": "2016-01-17T06:40:46Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Примеряем ОДЕЖДУ для Нашей Малышки Куклы baby born doll",
+    "description": "Всем Салют! Мы купили 5 новых нарядов для нашей маленькой Беби Борн! Сегодня мы покажем их Вам. Одеваем все наряды на куколку и модничаем. Теперь наша маленькая Боночка не замерзнет, ей тепло, уютно и красиво в новой одежке.\nhttps://youtu.be/fYtVjA7dfjg\nbaby born doll new dress Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fYtVjA7dfjg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fYtVjA7dfjg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fYtVjA7dfjg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fYtVjA7dfjg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "видео для детей",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "распаковка",
+      "Toys Review",
+      "for kids",
+      "беби борн",
+      "кукла беби борн",
+      "видео с куклами",
+      "baby born doll",
+      "doll",
+      "dress",
+      "кукла",
+      "диана",
+      "детский канал",
+      "куклы беби борн",
+      "мой беби борн",
+      "беби бон",
+      "беби борн распаковка",
+      "беби борн белла",
+      "беби борн сережа",
+      "беби борн видео",
+      "toys",
+      "review",
+      "baby born panenka",
+      "born a baby",
+      "new born baby",
+      "new born",
+      "vlog",
+      "кукла 2016"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Примеряем ОДЕЖДУ для Нашей Малышки Куклы baby born doll",
+      "description": "Всем Салют! Мы купили 5 новых нарядов для нашей маленькой Беби Борн! Сегодня мы покажем их Вам. Одеваем все наряды на куколку и модничаем. Теперь наша маленькая Боночка не замерзнет, ей тепло, уютно и красиво в новой одежке.\nhttps://youtu.be/fYtVjA7dfjg\nbaby born doll new dress Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "779688",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/fYtVjA7dfjg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
