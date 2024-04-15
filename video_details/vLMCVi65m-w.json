@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "vqDmAcnjiGsSrakpgdAxhkg6ih4",
+  "id": "vLMCVi65m-w",
+  "snippet": {
+    "publishedAt": "2019-05-23T06:00:09Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Maggie learn how to compromise and share when they both want the same dress",
+    "description": "Diana & Maggie want the same dress. Roma sews the same dress for Maggie with a sewing machine toy. At the end they both have beautiful princess dresses and accessories to wear! \nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vLMCVi65m-w/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vLMCVi65m-w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vLMCVi65m-w/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vLMCVi65m-w/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/vLMCVi65m-w/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana",
+      "same dress",
+      "dress",
+      "dress up",
+      "play",
+      "for girls",
+      "toys",
+      "playing",
+      "pretend",
+      "diana and roma",
+      "kids diana show",
+      "maggie"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana and Maggie learn how to compromise and share when they both want the same dress",
+      "description": "Diana & Maggie want the same dress. Roma sews the same dress for Maggie with a sewing machine toy. At the end they both have beautiful princess dresses and accessories to wear! \nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "832049689",
+    "likeCount": "2475781",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vLMCVi65m-w\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
