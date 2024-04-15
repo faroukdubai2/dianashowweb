@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#video",
+  "etag": "Ns8X36XRlSpbhRkNAktrwFGUIs0",
+  "id": "pqZNlTlGgP0",
+  "snippet": {
+    "publishedAt": "2016-07-11T06:57:32Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Играем в САЛОН КРАСОТЫ для животных Видео для Детей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pqZNlTlGgP0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pqZNlTlGgP0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pqZNlTlGgP0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/pqZNlTlGgP0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "кошки",
+      "игрушки",
+      "котик",
+      "Cat",
+      "cats",
+      "Toys Review",
+      "unboxing videos",
+      "KEENWAY",
+      "видео для детей",
+      "Играем в",
+      "САЛОН КРАСОТЫ",
+      "Play with",
+      "cat",
+      "funny",
+      "video for children",
+      "Beauty Salon",
+      "for cats",
+      "funny cat videos",
+      "kids",
+      "cat (animal)",
+      "котята",
+      "кот",
+      "funny cat",
+      "funny cats",
+      "cat videos",
+      "kitty",
+      "for children",
+      "смешные кошки",
+      "обзор игрушек",
+      "Diana",
+      "распаковка",
+      "детское видео",
+      "Kids Diana Show",
+      "Диана",
+      "развивающие мультики",
+      "животные для детей",
+      "диана шоу",
+      "animals",
+      "for kids",
+      "питомцы",
+      "my pet",
+      "groominq",
+      "salon"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Играем в САЛОН КРАСОТЫ для животных Видео для Детей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT15M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1360814",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pqZNlTlGgP0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
