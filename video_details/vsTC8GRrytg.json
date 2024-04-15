@@ -1,0 +1,98 @@
+{
+  "kind": "youtube#video",
+  "etag": "qJg9a5FHswUFPQxc2msLoMib8OA",
+  "id": "vsTC8GRrytg",
+  "snippet": {
+    "publishedAt": "2016-08-20T07:02:09Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана собрала коллекцию игрушек из мультика Тайная Жизнь Домашних Животных The Secret Life of Pets",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vsTC8GRrytg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vsTC8GRrytg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vsTC8GRrytg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vsTC8GRrytg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Kids Diana Show",
+      "тайная жизнь домашних животных",
+      "the secret life of pets",
+      "The Secret Life of Pets Toys",
+      "игрушки",
+      "игровой домик",
+      "toy house",
+      "видео для детей",
+      "for kids",
+      "тайная жизнь домашних животных мультфильм",
+      "игрушечный домик",
+      "house",
+      "домик",
+      "playhouse",
+      "house for kids",
+      "kids videos",
+      "тайная жизнь домашних животных игрушки",
+      "животные",
+      "жывотных",
+      "Кидс Диана Шоу",
+      "мультфильмы 2016",
+      "Diana",
+      "Диана"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана собрала коллекцию игрушек из мультика Тайная Жизнь Домашних Животных The Secret Life of Pets",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT13M9S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2039967",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vsTC8GRrytg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
