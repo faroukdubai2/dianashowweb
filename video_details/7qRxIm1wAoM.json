@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "O3I7biNRuHVwHv0XOTW4j5BxuKc",
+  "id": "7qRxIm1wAoM",
+  "snippet": {
+    "publishedAt": "2023-03-16T07:35:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana's New Stories with Oliver - Adventures & Challenges!",
+    "description": "Diana and Roma in New Stories with Oliver. Collection of videos about adventures and challenges.\n00:00 Helping Others Story\n04:52 Diana and Roma show Oliver's Day\n11:34 Hide and Seek in the Boxes with Oliver\n17:38 Oliver opened his own café\n22:45 10 Doors adventure, Oliver learns to count to 10\n32:18 Oliver's 2th Birthday\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7qRxIm1wAoM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7qRxIm1wAoM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7qRxIm1wAoM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7qRxIm1wAoM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7qRxIm1wAoM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "bedtime stories",
+      "cartoon",
+      "diana",
+      "diana and oliver",
+      "diana and roma",
+      "diana and roma english",
+      "diana roma",
+      "diana y roma",
+      "english stories",
+      "family friendly",
+      "funny kids",
+      "kids diana show",
+      "kids stories",
+      "kids videos",
+      "new stories",
+      "oliver",
+      "roma",
+      "roma and diana",
+      "stories",
+      "stories for kids",
+      "stories in english"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana's New Stories with Oliver - Adventures & Challenges!",
+      "description": "Diana and Roma in New Stories with Oliver. Collection of videos about adventures and challenges.\n00:00 Helping Others Story\n04:52 Diana and Roma show Oliver's Day\n11:34 Hide and Seek in the Boxes with Oliver\n17:38 Oliver opened his own café\n22:45 10 Doors adventure, Oliver learns to count to 10\n32:18 Oliver's 2th Birthday\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT40M13S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "42793094",
+    "likeCount": "97053",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7qRxIm1wAoM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
