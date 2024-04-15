@@ -1,0 +1,120 @@
+{
+  "kind": "youtube#video",
+  "etag": "cgu0Dy2Z3Af784Z0jul36107_Po",
+  "id": "62Zkcd42fq4",
+  "snippet": {
+    "publishedAt": "2016-06-27T05:11:51Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Огромная КУКЛА МАМА 82 см!!! НОВАЯ КУКЛА Дианы Big Doll Unpacking Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/62Zkcd42fq4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/62Zkcd42fq4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/62Zkcd42fq4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/62Zkcd42fq4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/62Zkcd42fq4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "кукла",
+      "куклы",
+      "Sum Sum",
+      "игры с кулами",
+      "видео с куклами",
+      "для детей",
+      "for kids",
+      "big doll",
+      "новая кукла",
+      "new doll",
+      "большая кукла",
+      "doll",
+      "dolls",
+      "baby dolls",
+      "игрушки для детей",
+      "Кукольный набор",
+      "Dolls World",
+      "Маленькая семья",
+      "кукла 82 см",
+      "82 cm doll",
+      "мама",
+      "с коляской",
+      "Mama",
+      "Diana",
+      "Kids Diana Show",
+      "Кидс Диана Шоу",
+      "видео для детей",
+      "игрушки",
+      "обзор игрушек",
+      "VLOG",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "unboxing videos",
+      "Большой",
+      "набор кукол",
+      "игры для девочек",
+      "игры для девочеки",
+      "диана",
+      "for girls"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Огромная КУКЛА МАМА 82 см!!! НОВАЯ КУКЛА Дианы Big Doll Unpacking Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT8M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3660347",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/62Zkcd42fq4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
