@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "3hJKpzMi9p8CzGrurVQ9f-V7_9A",
+  "id": "OZux3VC-sRM",
+  "snippet": {
+    "publishedAt": "2016-05-23T06:10:06Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Подарок Диане - ГОВОРЯЩАЯ РУЧКА, Развивающая Игрушка Для Малышей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OZux3VC-sRM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OZux3VC-sRM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OZux3VC-sRM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/OZux3VC-sRM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "обзор игрушек",
+      "говорящая ручка",
+      "развивающие игрушки",
+      "educational toys",
+      "toys",
+      "for kids",
+      "распаковка",
+      "for children",
+      "кидс диана шоу",
+      "развивающие мультики",
+      "диана",
+      "diana",
+      "учим фрукты",
+      "подготовка к школе",
+      "preparation for school",
+      "учимся читать",
+      "учим буквы",
+      "говорящая ручка знаток",
+      "развивающие игры",
+      "раннее развитие",
+      "kids diana show",
+      "развитие детей",
+      "toddler development",
+      "учим цвета",
+      "канцелярия",
+      "покупки к школе",
+      "ручки"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Подарок Диане - ГОВОРЯЩАЯ РУЧКА, Развивающая Игрушка Для Малышей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "621115",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OZux3VC-sRM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
