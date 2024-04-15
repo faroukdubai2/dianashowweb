@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "VPvyxLayZoACGZaNXaFLpI_HZOo",
+  "id": "kpj3kgHX1nI",
+  "snippet": {
+    "publishedAt": "2015-12-19T19:58:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Дубаи ОАЭ День #3 Едем в Magic Planet Indoor Playground Family Fun for Kids Indoor Play Area",
+    "description": "Дубаи ОАЭ День #3 Едем в Magic Planet Карусели Горки Игровые Автоматы и Аттракционы в Торговом Центре\n\nDubai UAE Day #3 City Of Dubai, Spirit of Dubai Video (HD) 2015, Magic Planet, Mall of The Emirates \nhttps://youtu.be/kpj3kgHX1nI Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kpj3kgHX1nI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kpj3kgHX1nI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kpj3kgHX1nI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/kpj3kgHX1nI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "VLOG",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "мис кети",
+      "miss katy",
+      "City Of Dubai",
+      "Spirit of Dubai Video",
+      "Диана в Дубаи",
+      "Катя в Дубаи",
+      "Макс в Дубаи",
+      "Дубаи ОАЕ",
+      "Duabi",
+      "UAE",
+      "travel",
+      "video for kids",
+      "Entertainment in Dubai",
+      "United Arab Emirates"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Дубаи ОАЭ День #3 Едем в Magic Planet Indoor Playground Family Fun for Kids Indoor Play Area",
+      "description": "Дубаи ОАЭ День #3 Едем в Magic Planet Карусели Горки Игровые Автоматы и Аттракционы в Торговом Центре\n\nDubai UAE Day #3 City Of Dubai, Spirit of Dubai Video (HD) 2015, Magic Planet, Mall of The Emirates \nhttps://youtu.be/kpj3kgHX1nI Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M4S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "152594",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/kpj3kgHX1nI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
