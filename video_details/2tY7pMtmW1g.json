@@ -1,0 +1,94 @@
+{
+  "kind": "youtube#video",
+  "etag": "dPYNLOzbJJh4FTqVdSI0GMqKh8E",
+  "id": "2tY7pMtmW1g",
+  "snippet": {
+    "publishedAt": "2018-12-20T07:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and new Cinderella story",
+    "description": "Cinderella story for kids by Diana and Roma. \nDiana, like Cinderella, she really wants to go to the ball. But Brother Roma makes a mess at home and makes her do the cleaning. It’s good that a fairy godmother appears in time, which will add a little bit of toys and magic to this story.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2tY7pMtmW1g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2tY7pMtmW1g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2tY7pMtmW1g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2tY7pMtmW1g/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2tY7pMtmW1g/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "cinderella",
+      "fairy tales",
+      "cinderella story",
+      "for kids",
+      "story for kids",
+      "kids",
+      "pretend play",
+      "video for kids",
+      "diana",
+      "диана",
+      "diana and roma",
+      "toys",
+      "toys for kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and new Cinderella story",
+      "description": "Cinderella story for kids by Diana and Roma. \nDiana, like Cinderella, she really wants to go to the ball. But Brother Roma makes a mess at home and makes her do the cleaning. It’s good that a fairy godmother appears in time, which will add a little bit of toys and magic to this story.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT11M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "121109801",
+    "likeCount": "403399",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/2tY7pMtmW1g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
