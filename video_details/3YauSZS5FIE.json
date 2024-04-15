@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#video",
+  "etag": "Ixaar1hmAMpw_cQ97UhFaTREeBM",
+  "id": "3YauSZS5FIE",
+  "snippet": {
+    "publishedAt": "2024-01-25T11:30:03Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "The Boo Boo Story with Oliver and Mom",
+    "description": "Mommy is the best person to make you feel better when you have a boo boo! Oliver has also learned to help others when they have Boo Boo. Watch as he takes care of his brothers and learns valuable lessons about kindness and empathy.\n\n00:00 The Boo Boo Story\n03:27 Diana Wants to be Good Sister for Baby Adam\n06:56 Roma and Diana visit Oliver's Cafe\n12:01 Good Behavior at School\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3YauSZS5FIE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3YauSZS5FIE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3YauSZS5FIE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3YauSZS5FIE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/3YauSZS5FIE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "the boo boo story",
+      "boo boo song",
+      "boo boo",
+      "boo boo story",
+      "oliver and mom",
+      "kids stories",
+      "kids videos"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "The Boo Boo Story with Oliver and Mom",
+      "description": "Mommy is the best person to make you feel better when you have a boo boo! Oliver has also learned to help others when they have Boo Boo. Watch as he takes care of his brothers and learns valuable lessons about kindness and empathy.\n\n00:00 The Boo Boo Story\n03:27 Diana Wants to be Good Sister for Baby Adam\n06:56 Roma and Diana visit Oliver's Cafe\n12:01 Good Behavior at School\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT17M14S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "16329871",
+    "likeCount": "13330",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/3YauSZS5FIE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
