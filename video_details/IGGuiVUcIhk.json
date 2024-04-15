@@ -1,0 +1,109 @@
+{
+  "kind": "youtube#video",
+  "etag": "4J3xi4Bqy4h71jbe3uuVBkH1A3M",
+  "id": "IGGuiVUcIhk",
+  "snippet": {
+    "publishedAt": "2023-12-07T12:38:56Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Oliver and Mom Explore New Countries",
+    "description": "Oliver and Mom explore new countries in this fun learning video. In each episode, they explore a new country, learn about the culture and people, and have lots of fun along the way!\n\n00:00 Oliver and Mom Explore New Countries\n07:51 Oliver's journey through different professions\n12:36 Learn English Alphabet \n20:31 Learn numbers 1-10 with Diana Roma and Oliver\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/IGGuiVUcIhk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/IGGuiVUcIhk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/IGGuiVUcIhk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/IGGuiVUcIhk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/IGGuiVUcIhk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "vlad",
+      "niki",
+      "vlad and niki",
+      "kids",
+      "kids playing",
+      "chris",
+      "fun",
+      "family",
+      "video for kids",
+      "kids stories",
+      "learn",
+      "learn countries",
+      "learn for kids",
+      "educational video",
+      "toys",
+      "kids toys",
+      "explore new countries",
+      "countries",
+      "travel"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Oliver and Mom Explore New Countries",
+      "description": "Oliver and Mom explore new countries in this fun learning video. In each episode, they explore a new country, learn about the culture and people, and have lots of fun along the way!\n\n00:00 Oliver and Mom Explore New Countries\n07:51 Oliver's journey through different professions\n12:36 Learn English Alphabet \n20:31 Learn numbers 1-10 with Diana Roma and Oliver\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT27M47S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9911054",
+    "likeCount": "15646",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IGGuiVUcIhk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
