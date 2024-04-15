@@ -1,0 +1,103 @@
+{
+  "kind": "youtube#video",
+  "etag": "BqOP0T1i7hgFYCKs6SNxonWZqnQ",
+  "id": "VCeLP4Zwvh8",
+  "snippet": {
+    "publishedAt": "2016-09-13T11:24:44Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана Играет в Магазин БУТИК ОДЕЖДЫ для Минни Маус Minnie Mouse Mickey Mouse Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VCeLP4Zwvh8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VCeLP4Zwvh8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VCeLP4Zwvh8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/VCeLP4Zwvh8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Диана",
+      "Минни Маус",
+      "Играем в",
+      "Магазин",
+      "Бутик Одежды",
+      "Mickey Mouse",
+      "Minnie Mouse",
+      "Toys",
+      "Mickey Mouse Toys",
+      "Minnie Mouse Toys",
+      "Diana",
+      "Kids Diana Show",
+      "Кидс Диана Шоу",
+      "играем в магазин",
+      "видео для детей",
+      "дисней",
+      "игрушки",
+      "микки маус",
+      "disney",
+      "мультик",
+      "минни маус мультик",
+      "минни маус бутик",
+      "mickey",
+      "микки",
+      "mouse",
+      "рома и диана",
+      "minnie",
+      "Play shop"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана Играет в Магазин БУТИК ОДЕЖДЫ для Минни Маус Minnie Mouse Mickey Mouse Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT9M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3626658",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/VCeLP4Zwvh8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
