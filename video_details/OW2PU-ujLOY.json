@@ -1,0 +1,113 @@
+{
+  "kind": "youtube#video",
+  "etag": "gpxhtUAe_Z2Bm4AeskBCr9Lh6iY",
+  "id": "OW2PU-ujLOY",
+  "snippet": {
+    "publishedAt": "2016-07-08T05:05:42Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "БОКС с украшениями Для маленькой ПРИНЦЕССЫ Супер Набор Для Девочек Little Mania",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OW2PU-ujLOY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OW2PU-ujLOY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OW2PU-ujLOY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/OW2PU-ujLOY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/OW2PU-ujLOY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Супер",
+      "Набор",
+      "Для Девочек",
+      "Little Mania",
+      "box",
+      "for",
+      "Princess",
+      "Disney",
+      "toys",
+      "игры для девочек",
+      "games for Girls",
+      "Диана",
+      "for Kids",
+      "Принцесса",
+      "Mega",
+      "распаковка",
+      "влог",
+      "Diana Show",
+      "for children",
+      "for kids",
+      "unboxing videos",
+      "видео для детей",
+      "video for kids",
+      "Диана Шоу",
+      "игры",
+      "для девочек",
+      "games",
+      "for Girls",
+      "игрушки",
+      "принцессы диснея",
+      "Toys",
+      "for girls",
+      "БОКС с украшениями"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "БОКС с украшениями Для маленькой ПРИНЦЕССЫ Супер Набор Для Девочек Little Mania",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT16M28S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3457823",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OW2PU-ujLOY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
