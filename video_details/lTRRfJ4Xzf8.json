@@ -1,0 +1,111 @@
+{
+  "kind": "youtube#video",
+  "etag": "ySCKUhQKSuqKhjSApYAPf8fXz-E",
+  "id": "lTRRfJ4Xzf8",
+  "snippet": {
+    "publishedAt": "2016-05-14T03:12:28Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Новый Друг для Дианы - Дельфин БЛУ БЛУ Интерактивная Игрушка Blu Blu Dolphin",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lTRRfJ4Xzf8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lTRRfJ4Xzf8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lTRRfJ4Xzf8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/lTRRfJ4Xzf8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Дельфин",
+      "dolphin",
+      "BluBlu",
+      "дельфин",
+      "дельфины",
+      "интерактивная игрушка",
+      "BLU BLU THE BABY DOLPHIN",
+      "interactive",
+      "БлуБлу",
+      "живая игрушка",
+      "игрушка из резинок",
+      "live toy",
+      "распаковка",
+      "toys",
+      "Блу Блу",
+      "Blu Blu Dolphin",
+      "Дельфин Блу Блу",
+      "Подарок",
+      "friend",
+      "toys r us",
+      "дельфинотерапия",
+      "друг",
+      "обзор игрушек",
+      "дельфинчик",
+      "детский влог",
+      "VLOG",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "unboxing videos",
+      "kids",
+      "Кидс Диана Шоу",
+      "Kids Diana Show",
+      "Diana",
+      "Диана",
+      "Диана Шоу"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Новый Друг для Дианы - Дельфин БЛУ БЛУ Интерактивная Игрушка Blu Blu Dolphin",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M15S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3701385",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lTRRfJ4Xzf8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
