@@ -1,6 +1,6 @@
 {
   "kind": "youtube#video",
-  "etag": "G4N4GFdaw1kveMqyXeczho0X98A",
+  "etag": "AlrjVGCjgj2sMiliDdT3_WZUX3M",
   "id": "lmGfxMvMciY",
   "snippet": {
     "publishedAt": "2015-10-10T08:23:14Z",
@@ -85,7 +85,7 @@
     "madeForKids": true
   },
   "statistics": {
-    "viewCount": "168981",
+    "viewCount": "168990",
     "favoriteCount": "0"
   },
   "player": {
