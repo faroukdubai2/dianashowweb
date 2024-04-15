@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "V4kmUCmxV8wZCKAHgwFgbK_1u2c",
+  "id": "N6xfGYtv0co",
+  "snippet": {
+    "publishedAt": "2018-06-23T06:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Roma and Diana play fun with Favorite toys, Funny Stories by Kids Diana Show",
+    "description": "Roma and Diana play fun with favorite toys: paw patrol, toy horse, teddy bears. These toys great for imaginative play! Kids pretend play and create funny stories for children's videos.\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/N6xfGYtv0co/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/N6xfGYtv0co/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/N6xfGYtv0co/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/N6xfGYtv0co/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/N6xfGYtv0co/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "roma and diana",
+      "play fun",
+      "favorite toys",
+      "kids toys",
+      "baby toys",
+      "toys",
+      "toy",
+      "toys for kids",
+      "funny stories",
+      "funny",
+      "kids",
+      "play",
+      "fun",
+      "stories",
+      "for kids",
+      "for children",
+      "kids video",
+      "diana",
+      "pretend play",
+      "kids pretend play",
+      "рома и диана",
+      "диана и рома",
+      "video for kids",
+      "children",
+      "children's videos",
+      "kids videos"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Roma and Diana play fun with Favorite toys, Funny Stories by Kids Diana Show",
+      "description": "Roma and Diana play fun with favorite toys: paw patrol, toy horse, teddy bears. These toys great for imaginative play! Kids pretend play and create funny stories for children's videos.\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT10M50S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "168591471",
+    "likeCount": "432600",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/N6xfGYtv0co\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
