@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "BGYoUVJAZfBsrjc6afDEltrxnuc",
+  "id": "r-DUlGICXMQ",
+  "snippet": {
+    "publishedAt": "2022-06-19T06:02:27Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana teaches baby Oliver | Developmental Games for a 1+ Year Old",
+    "description": "Diana is doing her homework. But little Oliver also wants to study. Diana decides to teach Oliver about shapes, colors, animal names and numbers. Fun educational games for children from 1 year old! Baby Oliver plays and develops at the same time!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/r-DUlGICXMQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/r-DUlGICXMQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/r-DUlGICXMQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/r-DUlGICXMQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/r-DUlGICXMQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "how to entertain a baby",
+      "developmental games",
+      "developmental games 1 year old",
+      "how to entertain a toddler",
+      "toddler games",
+      "educational games for 1 year old",
+      "fun activities for 1 year olds",
+      "learning games for 1 year old",
+      "baby games for 1 year old",
+      "developmental games for 1 year old",
+      "child development",
+      "diana and roma english",
+      "kids videos",
+      "family fun",
+      "videos for kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana teaches baby Oliver | Developmental Games for a 1+ Year Old",
+      "description": "Diana is doing her homework. But little Oliver also wants to study. Diana decides to teach Oliver about shapes, colors, animal names and numbers. Fun educational games for children from 1 year old! Baby Oliver plays and develops at the same time!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "21046543",
+    "likeCount": "34876",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/r-DUlGICXMQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
