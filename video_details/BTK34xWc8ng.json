@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#video",
+  "etag": "wFY1qu5lS3adk753hW3HoTjDpQQ",
+  "id": "BTK34xWc8ng",
+  "snippet": {
+    "publishedAt": "2018-10-27T06:16:27Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Barbie Party",
+    "description": "Diana organized a Barbie party. Only Barbie Dolls and girls can go there. The boy Roma wanted to go to the party, and changed into a Barbie girl. Diana drove the boy from the party, but then he came back and looked like Ken. Funny video for kids\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx \n#dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BTK34xWc8ng/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BTK34xWc8ng/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BTK34xWc8ng/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/BTK34xWc8ng/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/BTK34xWc8ng/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "barbie",
+      "for kids",
+      "barbie party",
+      "barbie doll",
+      "barbie house",
+      "barbie videos",
+      "toys",
+      "dolls",
+      "kids toys",
+      "barbie toys",
+      "funny",
+      "kids",
+      "funny video",
+      "kids video",
+      "рома и диана",
+      "диана",
+      "барби",
+      "diana",
+      "diana barbie"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and Barbie Party",
+      "description": "Diana organized a Barbie party. Only Barbie Dolls and girls can go there. The boy Roma wanted to go to the party, and changed into a Barbie girl. Diana drove the boy from the party, but then he came back and looked like Ken. Funny video for kids\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx \n#dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "118770081",
+    "likeCount": "385787",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/BTK34xWc8ng\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
