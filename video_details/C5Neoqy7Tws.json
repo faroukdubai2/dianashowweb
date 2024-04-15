@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "6XRrwNL29D_6gTsqpTTIHHq2W54",
+  "id": "C5Neoqy7Tws",
+  "snippet": {
+    "publishedAt": "2019-10-08T10:01:31Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Chooses a Halloween Costume",
+    "description": "Diana chooses her Halloween costume 2019. She tries on all her Halloween costumes and picks the most impressive costume. Brother Roma helps her decide.\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/C5Neoqy7Tws/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/C5Neoqy7Tws/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/C5Neoqy7Tws/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/C5Neoqy7Tws/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/C5Neoqy7Tws/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "chooses",
+      "halloween costume",
+      "halloween costumes",
+      "halloween",
+      "halloween 2019",
+      "halloween kids",
+      "dress up",
+      "pretend",
+      "play",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana Chooses a Halloween Costume",
+      "description": "Diana chooses her Halloween costume 2019. She tries on all her Halloween costumes and picks the most impressive costume. Brother Roma helps her decide.\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT6M53S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "203480275",
+    "likeCount": "700140",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/C5Neoqy7Tws\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
