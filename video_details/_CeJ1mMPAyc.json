@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#video",
+  "etag": "AqTrWrEkgKND_v0bjiFojLueGeQ",
+  "id": "_CeJ1mMPAyc",
+  "snippet": {
+    "publishedAt": "2016-03-01T12:44:45Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка игрушек Замок Куклы Барби Мини Игрушки Barbie Doll unboxing",
+    "description": "#dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_CeJ1mMPAyc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_CeJ1mMPAyc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_CeJ1mMPAyc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_CeJ1mMPAyc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "кукла",
+      "барби",
+      "замок",
+      "куклы",
+      "игрушки",
+      "кукла барби",
+      "куклы барби",
+      "распаковка",
+      "обзор",
+      "Barbie",
+      "Baby Doll",
+      "Doll",
+      "Dolls",
+      "Baby Girl",
+      "doll toy",
+      "doll",
+      "house",
+      "baby toy",
+      "Barbie house",
+      "маленькая девочка раскрывает сюрпризы",
+      "девочка с мамой снимают видео",
+      "девочка играется игрушками",
+      "обзор игрушек",
+      "детский канал",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "видео для детей",
+      "Toys",
+      "Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "live",
+      "Кукла БАРБИ",
+      "diana barbie"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка игрушек Замок Куклы Барби Мини Игрушки Barbie Doll unboxing",
+      "description": "#dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M50S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "811778",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/_CeJ1mMPAyc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
