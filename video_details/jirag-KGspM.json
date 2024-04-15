@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#video",
+  "etag": "0ASq8W5KAtlxoDl3lfBazRPe8qY",
+  "id": "jirag-KGspM",
+  "snippet": {
+    "publishedAt": "2016-05-17T05:12:52Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана играет в Куклы Барби, распаковка ПЕЧАТИ КУБИКИ и ЯЙЦА с Сюрпризами",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jirag-KGspM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jirag-KGspM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jirag-KGspM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/jirag-KGspM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Куклы Барби",
+      "Барби",
+      "doll",
+      "Barbie",
+      "ЯЙЦА с Сюрпризами",
+      "Куклы барби сюрпризы яйца",
+      "кукла барби",
+      "барби куклы",
+      "Barbie dolls",
+      "Dolls",
+      "Stamps",
+      "boxes",
+      "eggs",
+      "with surprises",
+      "куклы",
+      "кукла",
+      "игрушки куклы",
+      "baby doll",
+      "видео с куклами",
+      "про куклы",
+      "кубики",
+      "cubes",
+      "яйца",
+      "сюрпризы",
+      "ПЕЧАТИ",
+      "surprises",
+      "барби кубики",
+      "Barbie cubes",
+      "барби рок принцесса",
+      "барби 2015",
+      "барби на русском",
+      "diana",
+      "diana show",
+      "Roma",
+      "Roma Show",
+      "диана",
+      "диана шоу"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана играет в Куклы Барби, распаковка ПЕЧАТИ КУБИКИ и ЯЙЦА с Сюрпризами",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M7S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1111886",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/jirag-KGspM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
