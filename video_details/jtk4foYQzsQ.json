@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#video",
+  "etag": "lsnthUZ5yQpHQc1sJ53wQ_ZNb9U",
+  "id": "jtk4foYQzsQ",
+  "snippet": {
+    "publishedAt": "2018-04-08T06:00:02Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Игрушки Шопкинс спрятались от Дианы, ищем Сюрпризы и строим Домик для Shopkins!",
+    "description": "Игрушки Шопкинс спрятались от Дианы. Девочка ищет сюрпризы Shopkins в комнате, распаковывает наборы Шопкинс 8 сезона. Строим Домик для наших новых #Shopkins! Забавное видео для детей.\nShopkins surprises toys 8 season unboxing!!!\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\n#Kids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/jtk4foYQzsQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/jtk4foYQzsQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/jtk4foYQzsQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/jtk4foYQzsQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/jtk4foYQzsQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Игрушки Шопкинс",
+      "shopkins",
+      "игрушки",
+      "сюрпризы",
+      "домик",
+      "шопкинс",
+      "для детей",
+      "игрушки для детей",
+      "шопкинс игрушки",
+      "видео для детей",
+      "рома и диана",
+      "surprises toys",
+      "for kids",
+      "surprise",
+      "toys",
+      "surprises",
+      "kids toys",
+      "диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Игрушки Шопкинс спрятались от Дианы, ищем Сюрпризы и строим Домик для Shopkins!",
+      "description": "Игрушки Шопкинс спрятались от Дианы. Девочка ищет сюрпризы Shopkins в комнате, распаковывает наборы Шопкинс 8 сезона. Строим Домик для наших новых #Shopkins! Забавное видео для детей.\nShopkins surprises toys 8 season unboxing!!!\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\n#Kids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT8M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2490952",
+    "likeCount": "7402",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/jtk4foYQzsQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
