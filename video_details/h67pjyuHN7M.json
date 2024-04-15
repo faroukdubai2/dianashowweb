@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "1uFTQi3riygvIUOJCL8cQCd6s8E",
+  "id": "h67pjyuHN7M",
+  "snippet": {
+    "publishedAt": "2018-12-02T09:04:46Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Christmas Presents",
+    "description": "Diana and Roma Pretend Play Opening Christmas Presents and wish their subscribers a happy Christmas and New Year! Fun Pretend Play video for kids!\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\n\nДиана и Рома, первые Подарки на Новый год 2019 Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/h67pjyuHN7M/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/h67pjyuHN7M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/h67pjyuHN7M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/h67pjyuHN7M/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/h67pjyuHN7M/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "presents",
+      "opening presents",
+      "christmas",
+      "christmas presents",
+      "toys",
+      "toy",
+      "for kids",
+      "kids toys",
+      "подарки на новый год",
+      "подарки",
+      "новый год 2019",
+      "диана",
+      "рома и диана",
+      "diana",
+      "kids video"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and Christmas Presents",
+      "description": "Diana and Roma Pretend Play Opening Christmas Presents and wish their subscribers a happy Christmas and New Year! Fun Pretend Play video for kids!\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\n\nДиана и Рома, первые Подарки на Новый год 2019 Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT24M44S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "49268958",
+    "likeCount": "195616",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/h67pjyuHN7M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
