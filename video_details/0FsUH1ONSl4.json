@@ -1,0 +1,99 @@
+{
+  "kind": "youtube#video",
+  "etag": "kL5oa3idu0nNABBomuwkZh65Rsw",
+  "id": "0FsUH1ONSl4",
+  "snippet": {
+    "publishedAt": "2016-01-05T17:26:19Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Делаем СЛЕПОК Ручки и Ножки Дианы Гипсовый unboxing new toys",
+    "description": "Это невероятно! Как легко можно отобразить на память какой крохотной была ножка и ручка Дианы в полтора года! Делаем гипсовый СЛЕПОК Ручки и Ножки Дианы ей на память\nunboxing new toys\nhttps://youtu.be/0FsUH1ONSl4 Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0FsUH1ONSl4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0FsUH1ONSl4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0FsUH1ONSl4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0FsUH1ONSl4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "маленькая девочка раскрывает сюрпризы",
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "девочка играется игрушками",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "маленькая девочка открывает сюрпризы",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "слепок из гипса"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Делаем СЛЕПОК Ручки и Ножки Дианы Гипсовый unboxing new toys",
+      "description": "Это невероятно! Как легко можно отобразить на память какой крохотной была ножка и ручка Дианы в полтора года! Делаем гипсовый СЛЕПОК Ручки и Ножки Дианы ей на память\nunboxing new toys\nhttps://youtu.be/0FsUH1ONSl4 Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2354452",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0FsUH1ONSl4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
