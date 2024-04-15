@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#video",
+  "etag": "nrz8-UrjN4qPN48ahx419DCG2y4",
+  "id": "Ew3MGbR9lDc",
+  "snippet": {
+    "publishedAt": "2016-10-15T04:46:28Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана - МИННИ МАУС, Новый домик-палатка для Minnie Mouse",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Ew3MGbR9lDc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Ew3MGbR9lDc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Ew3MGbR9lDc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Ew3MGbR9lDc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "минни маус",
+      "minnie mouse",
+      "видео для детей",
+      "мини маус",
+      "дисней",
+      "игрушки",
+      "детский канал",
+      "рома и диана",
+      "диана и рома",
+      "домик-палатка"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана - МИННИ МАУС, Новый домик-палатка для Minnie Mouse",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M40S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "21459292",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Ew3MGbR9lDc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
