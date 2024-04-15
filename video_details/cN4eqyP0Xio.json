@@ -1,0 +1,103 @@
+{
+  "kind": "youtube#video",
+  "etag": "j-fPHo9OmLyCIOQtzIH05LTDMDo",
+  "id": "cN4eqyP0Xio",
+  "snippet": {
+    "publishedAt": "2023-07-28T06:39:22Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Teaches Oliver Etiquette and Good Manners",
+    "description": "Diana teaches baby Oliver how to behave while visiting. Simple rules of etiquette and manners for children.\n00:00 Diana teaches Oliver etiquette and good manners\n05:04 Diana and Roma show Oliver Why brushing teeth is essential\n09:33 A Children's Story about Punctuality\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cN4eqyP0Xio/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cN4eqyP0Xio/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cN4eqyP0Xio/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/cN4eqyP0Xio/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/cN4eqyP0Xio/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "diana and oliver",
+      "baby oliver",
+      "how to behave",
+      "kids learn how to behave",
+      "good manners",
+      "etiquette rules for children",
+      "manners and etiquette",
+      "good habits",
+      "good habits for kids",
+      "stories in english",
+      "stories",
+      "bedtime stories",
+      "kids videos"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana Teaches Oliver Etiquette and Good Manners",
+      "description": "Diana teaches baby Oliver how to behave while visiting. Simple rules of etiquette and manners for children.\n00:00 Diana teaches Oliver etiquette and good manners\n05:04 Diana and Roma show Oliver Why brushing teeth is essential\n09:33 A Children's Story about Punctuality\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT13M38S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "10975688",
+    "likeCount": "15933",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/cN4eqyP0Xio\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
