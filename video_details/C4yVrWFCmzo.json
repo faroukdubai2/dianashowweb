@@ -1,0 +1,110 @@
+{
+  "kind": "youtube#video",
+  "etag": "7ZiBRe0pPhv7ijnLB1ixOWmYqPI",
+  "id": "C4yVrWFCmzo",
+  "snippet": {
+    "publishedAt": "2016-05-25T08:24:33Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "VLOG ДИАНА делает покупки В МАГАЗИНЕ",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/C4yVrWFCmzo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/C4yVrWFCmzo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/C4yVrWFCmzo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/C4yVrWFCmzo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "VLOG",
+      "Диана",
+      "В МАГАЗИНЕ",
+      "Diana",
+      "Kids Diana Show",
+      "Кидс Диана Шоу",
+      "детский влог",
+      "игрушки",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "Шоппинг",
+      "супермаркет",
+      "unboxing",
+      "vlogging",
+      "shopping spree",
+      "for children cartoon",
+      "диана шоу",
+      "видео для детей",
+      "рома и диана",
+      "диана и рома",
+      "VLOG Children's",
+      "влог для Детей",
+      "вл",
+      "влог",
+      "децкий влог",
+      "VLOG Shopping",
+      "Vlogs Diana",
+      "катя влог",
+      "детский шоппинг",
+      "отдел игрушек",
+      "играем в магазине",
+      "играет"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "VLOG ДИАНА делает покупки В МАГАЗИНЕ",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT23M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "679852",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/C4yVrWFCmzo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
