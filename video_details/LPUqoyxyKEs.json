@@ -1,0 +1,111 @@
+{
+  "kind": "youtube#video",
+  "etag": "JoejK6920eAq0tYpIVOxMXzSMAw",
+  "id": "LPUqoyxyKEs",
+  "snippet": {
+    "publishedAt": "2018-05-25T06:15:41Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана как МАМА и новая Одежда для куклы Беби Бон",
+    "description": "Диана как Мама для Куклы Беби Бон. Недавно у нас появилась новая кукла Беби Бон Фея и много нарядов для нее. Вся одежда для куклы очень красивая и даже есть платье с подсветкой. Примеряем новую одежду для куклы Беби Бон.\nDiana playing with Baby Born Doll, New Clothes for Baby Doll\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/LPUqoyxyKEs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/LPUqoyxyKEs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/LPUqoyxyKEs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/LPUqoyxyKEs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/LPUqoyxyKEs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "как мама",
+      "новая одежда",
+      "одежда для куклы",
+      "беби бон",
+      "одежда",
+      "куклы беби бон",
+      "беби бон кукла",
+      "беби бон видео",
+      "беби бон как мама",
+      "беби бон одежда",
+      "Diana",
+      "playing",
+      "baby born",
+      "pretend play",
+      "baby doll",
+      "for kids",
+      "play",
+      "toys",
+      "kids",
+      "kids toys",
+      "baby born doll",
+      "video for kids",
+      "dolls",
+      "doll",
+      "kids video",
+      "рома и диана",
+      "диана и рома",
+      "kids diana show",
+      "videos for kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана как МАМА и новая Одежда для куклы Беби Бон",
+      "description": "Диана как Мама для Куклы Беби Бон. Недавно у нас появилась новая кукла Беби Бон Фея и много нарядов для нее. Вся одежда для куклы очень красивая и даже есть платье с подсветкой. Примеряем новую одежду для куклы Беби Бон.\nDiana playing with Baby Born Doll, New Clothes for Baby Doll\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "6157041",
+    "likeCount": "30136",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/LPUqoyxyKEs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
