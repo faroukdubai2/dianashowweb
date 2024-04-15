@@ -1,0 +1,117 @@
+{
+  "kind": "youtube#video",
+  "etag": "a81sp7WmKJ42r3wqZUbEexwlcQQ",
+  "id": "PPKMwIb2iGM",
+  "snippet": {
+    "publishedAt": "2016-05-31T03:58:45Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Новая КУКЛА для Дианы ОЛЯ - Говорящая Кукла Робот Интерактивная Игрушка Robot Unboxing Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PPKMwIb2iGM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PPKMwIb2iGM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PPKMwIb2iGM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/PPKMwIb2iGM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Кукла",
+      "Куклы",
+      "Кукла Оля",
+      "Кукла робот",
+      "робот",
+      "Оля",
+      "развивающая игрушка",
+      "интерактивная игрушка",
+      "интерактивная кукла",
+      "говорящая кукла",
+      "распаковка",
+      "игрушки",
+      "обзор игрушек",
+      "новая кукла",
+      "Doll",
+      "Dolls",
+      "Olga doll",
+      "robot",
+      "living doll",
+      "toy",
+      "interactive toy",
+      "talking doll",
+      "Unboxing",
+      "Unpacking toys",
+      "Olya",
+      "toys review",
+      "детский канал",
+      "mr robot",
+      "the robot",
+      "робот Оля",
+      "роботы",
+      "إنسان آلي",
+      "Игрушка-Робот",
+      "ロボット",
+      "少女ロボット",
+      "話す人形",
+      "interactive doll",
+      "muñeca",
+      "olya doll",
+      "hablando muñeca",
+      "диана",
+      "диана шоу"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Новая КУКЛА для Дианы ОЛЯ - Говорящая Кукла Робот Интерактивная Игрушка Robot Unboxing Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M56S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "575509",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/PPKMwIb2iGM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
