@@ -1,0 +1,105 @@
+{
+  "kind": "youtube#video",
+  "etag": "ndSnPHAkNGOz9TlFamlSo4oi5ss",
+  "id": "AXUcFtbc658",
+  "snippet": {
+    "publishedAt": "2016-08-29T03:57:29Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Строим СУПЕР ЗАМОК ПРИНЦЕССЫ Большой Игрушечный Домик Для Девочек Disney Princess Play Castle Toys",
+    "description": "Новый Замок Принцессы - настоящая Сказка! Это Самый большой и Самый Красивый Замок который мы выдели. Большой Замок состоит из крупных красивых деталей. Диана и Рома помогают папе строить Замок Принцессы. Именно в таких Замках в сказке происходят Чудеса. Наш Замок - Самый Большой Игрушечный Домик. Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/AXUcFtbc658/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/AXUcFtbc658/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/AXUcFtbc658/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/AXUcFtbc658/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "принцессы",
+      "Princess Disney",
+      "принцессы диснея",
+      "игры принцессы",
+      "Princess Disney Dolls",
+      "ПРИНЦЕССА",
+      "для детей",
+      "Diana",
+      "игрушки",
+      "Для Девочек",
+      "for kids",
+      "Princess",
+      "toys",
+      "games",
+      "for Girls Kids",
+      "Kids Diana Show",
+      "Диана",
+      "Диана шоу",
+      "for girls",
+      "disney princess",
+      "disney princess games",
+      "Замок Принцессы",
+      "Замок",
+      "Игрушечный Домик",
+      "Castle Toys",
+      "Castle",
+      "Disney Princess Play",
+      "Princess castle",
+      "super Palace",
+      "видео для детей"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Строим СУПЕР ЗАМОК ПРИНЦЕССЫ Большой Игрушечный Домик Для Девочек Disney Princess Play Castle Toys",
+      "description": "Новый Замок Принцессы - настоящая Сказка! Это Самый большой и Самый Красивый Замок который мы выдели. Большой Замок состоит из крупных красивых деталей. Диана и Рома помогают папе строить Замок Принцессы. Именно в таких Замках в сказке происходят Чудеса. Наш Замок - Самый Большой Игрушечный Домик. Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT25M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "33972964",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/AXUcFtbc658\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
