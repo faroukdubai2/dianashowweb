@@ -1,0 +1,94 @@
+{
+  "kind": "youtube#video",
+  "etag": "5fcU84SLHGrd-UIfxz56a0Hv8T8",
+  "id": "JM-Nf6pCsa4",
+  "snippet": {
+    "publishedAt": "2021-10-16T14:31:46Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma PJ Masks IRL Pretend Play Adventure",
+    "description": "This is a paid ad for eOne’s PJ Masks. For more PJ Masks, you can head to our YouTube channel and stream your favorite episodes on Disney+! PJ Masks gear is available at Walmart and Walmart.com. \n \nJoin Catboy, Owlette, and Gekko in Real Life!\n\n#Cartoons #LIVE #Superhero\nBy day 6-year-olds, Connor, Amaya, and Greg go to school like everyone else. But when something goes awry in the city, these special kids, filled with curiosity and a sense of justice, get ready for their mission – but they have to wait until nightfall when the city is asleep, and they can go undetected. Instead of going to bed like all the other children, when our heroes get their pyjamas on, they magically transform into heroes and become the PJ Masks. Here come Catboy – super fast and agile, Gekko – super strong and can scale walls and Owlette – with the ability to fly and see great distances. Together these three can tackle any situation – PJ Masks they’re on their way into the night to save the day!\n \nOfficial website: https://bit.ly/3sNwwZc Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JM-Nf6pCsa4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JM-Nf6pCsa4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JM-Nf6pCsa4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/JM-Nf6pCsa4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/JM-Nf6pCsa4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "toys",
+      "pj masks",
+      "pj masks toys",
+      "cartoons for kids",
+      "pj mask",
+      "cartoons"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana and Roma PJ Masks IRL Pretend Play Adventure",
+      "description": "This is a paid ad for eOne’s PJ Masks. For more PJ Masks, you can head to our YouTube channel and stream your favorite episodes on Disney+! PJ Masks gear is available at Walmart and Walmart.com. \n \nJoin Catboy, Owlette, and Gekko in Real Life!\n\n#Cartoons #LIVE #Superhero\nBy day 6-year-olds, Connor, Amaya, and Greg go to school like everyone else. But when something goes awry in the city, these special kids, filled with curiosity and a sense of justice, get ready for their mission – but they have to wait until nightfall when the city is asleep, and they can go undetected. Instead of going to bed like all the other children, when our heroes get their pyjamas on, they magically transform into heroes and become the PJ Masks. Here come Catboy – super fast and agile, Gekko – super strong and can scale walls and Owlette – with the ability to fly and see great distances. Together these three can tackle any situation – PJ Masks they’re on their way into the night to save the day!\n \nOfficial website: https://bit.ly/3sNwwZc Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M1S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "6158984",
+    "likeCount": "19913",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/JM-Nf6pCsa4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Entertainment",
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/Humour"
+    ]
+  },
+  "recordingDetails": {}
+}
