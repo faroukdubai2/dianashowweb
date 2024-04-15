@@ -1,0 +1,94 @@
+{
+  "kind": "youtube#video",
+  "etag": "2CvzarouyopbTxPmbEse8bImqH0",
+  "id": "8KbcsBCuuPA",
+  "snippet": {
+    "publishedAt": "2023-11-12T14:00:03Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Miko Mini meets Diana and Roma - Smart Robot for Kids!",
+    "description": "#AD Parents, learn more at http://www.miko.ai or https://a.co/d/74TLGwA\n\nMiko Mini meet Diana and Roma – a smart robot designed specifically for kids!\n\nLearn about these amazing robots and see how they can be fun and educational additions to your child's life.\n\nMiko Mini is the perfect way for kids to learn and have fun at the same time.\n\nMiko Mini robot with Diana and Roma are helping to encourage children to explore their interests. This fun video is a great way to introduce kids to the exciting world of robots!\n\n @KidsDianaShow \n\nhttps://www.instagram.com/kidsdianashow/\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma #mikomini",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/8KbcsBCuuPA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/8KbcsBCuuPA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/8KbcsBCuuPA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/8KbcsBCuuPA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/8KbcsBCuuPA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "mikomini",
+      "miko",
+      "mikorobot"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Miko Mini meets Diana and Roma - Smart Robot for Kids!",
+      "description": "#AD Parents, learn more at http://www.miko.ai or https://a.co/d/74TLGwA\n\nMiko Mini meet Diana and Roma – a smart robot designed specifically for kids!\n\nLearn about these amazing robots and see how they can be fun and educational additions to your child's life.\n\nMiko Mini is the perfect way for kids to learn and have fun at the same time.\n\nMiko Mini robot with Diana and Roma are helping to encourage children to explore their interests. This fun video is a great way to introduce kids to the exciting world of robots!\n\n @KidsDianaShow \n\nhttps://www.instagram.com/kidsdianashow/\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma #mikomini"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M1S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9105824",
+    "likeCount": "9293",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/8KbcsBCuuPA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
