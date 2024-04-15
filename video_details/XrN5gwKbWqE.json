@@ -1,0 +1,104 @@
+{
+  "kind": "youtube#video",
+  "etag": "Tkf5ooHmV3ec8tvlenl5rO1IyLk",
+  "id": "XrN5gwKbWqE",
+  "snippet": {
+    "publishedAt": "2021-07-24T06:01:39Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma Get in a Fight and Learn to Share",
+    "description": "Diana and Roma are fighting over toys. They make a partition from the construction set and play alone, each on their own side. But the kids get bored. Diana and Roma decide to apologize to each other and learn to share toys to play together. New cartoon for children from Love, Diana!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n\n#dianaandromacartoon #dianaandroma #cartoon Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XrN5gwKbWqE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XrN5gwKbWqE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XrN5gwKbWqE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/XrN5gwKbWqE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/XrN5gwKbWqE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "roma and diana",
+      "cartoon",
+      "diana y roma",
+      "roma",
+      "diana roma",
+      "learn to share",
+      "kids learn to share",
+      "learn to say sorry",
+      "learn to apologize",
+      "how to be kind and say sorry",
+      "in a fight",
+      "conflict resolution",
+      "kids conflict resolution",
+      "mad at each other",
+      "cartoons for kids",
+      "cartoons",
+      "мультики",
+      "animation",
+      "love diana",
+      "diana and roma cartoon",
+      "kids diana show"
+    ],
+    "categoryId": "15",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana and Roma Get in a Fight and Learn to Share",
+      "description": "Diana and Roma are fighting over toys. They make a partition from the construction set and play alone, each on their own side. But the kids get bored. Diana and Roma decide to apologize to each other and learn to share toys to play together. New cartoon for children from Love, Diana!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n\n#dianaandromacartoon #dianaandroma #cartoon Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M28S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "33801818",
+    "likeCount": "92275",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/XrN5gwKbWqE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Entertainment",
+      "https://en.wikipedia.org/wiki/Film",
+      "https://en.wikipedia.org/wiki/Television_program"
+    ]
+  },
+  "recordingDetails": {}
+}
