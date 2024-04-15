@@ -1,0 +1,89 @@
+{
+  "kind": "youtube#video",
+  "etag": "2vFb5jcOGV9oQdlFFj8QOLGws8w",
+  "id": "Fx3GNMqidUQ",
+  "snippet": {
+    "publishedAt": "2020-03-28T07:01:04Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma - Wash Your Hands story",
+    "description": "Diana and Roma - Wash Your Hands story. Story time for kids.\nDiana and Roma do not want to wash their hands before eating. Their stomach hurts and needs to be treated. Now the children will understand how important it is to wash their hands.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram - https://www.instagram.com/kidsdianashow/\nTik Tok - https://www.tiktok.com/@kidsdianashow Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Fx3GNMqidUQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Fx3GNMqidUQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Fx3GNMqidUQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Fx3GNMqidUQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Fx3GNMqidUQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "wash your hands",
+      "wash hands",
+      "diana and roma",
+      "kids diana show",
+      "story",
+      "for kids",
+      "storytime",
+      "story time",
+      "kids",
+      "kids videos"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana and Roma - Wash Your Hands story",
+      "description": "Diana and Roma - Wash Your Hands story. Story time for kids.\nDiana and Roma do not want to wash their hands before eating. Their stomach hurts and needs to be treated. Now the children will understand how important it is to wash their hands.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram - https://www.instagram.com/kidsdianashow/\nTik Tok - https://www.tiktok.com/@kidsdianashow Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT6M42S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "734624382",
+    "likeCount": "2430814",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Fx3GNMqidUQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
