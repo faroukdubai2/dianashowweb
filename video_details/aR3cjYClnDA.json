@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#video",
+  "etag": "daKDdoXVjrpVAilqYkXz2Rm3O98",
+  "id": "aR3cjYClnDA",
+  "snippet": {
+    "publishedAt": "2017-03-14T04:59:59Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана КАК МАМА для Кукол Baby Born / игрушечная стиральная машинка для детей",
+    "description": "Диана как мама для своих кукол Baby Born, убирает и стирает одежду. Девочка устала от забот, но вдруг у нее появляется помощница - игрушечная стиральная машинка. Теперь Диана может заняться своими делами и не беспокоится о стирке. Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/aR3cjYClnDA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/aR3cjYClnDA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/aR3cjYClnDA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/aR3cjYClnDA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/aR3cjYClnDA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Кукла Беби Бон",
+      "как мама",
+      "куклы",
+      "кукла",
+      "Baby Born",
+      "видео для детей",
+      "куклы пупсики",
+      "беби бон",
+      "видео для девочек",
+      "игрушки для девочек",
+      "игрушки",
+      "куклы беби бон",
+      "беби бон видео",
+      "Диана",
+      "Diana",
+      "Kids Diana Show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана КАК МАМА для Кукол Baby Born / игрушечная стиральная машинка для детей",
+      "description": "Диана как мама для своих кукол Baby Born, убирает и стирает одежду. Девочка устала от забот, но вдруг у нее появляется помощница - игрушечная стиральная машинка. Теперь Диана может заняться своими делами и не беспокоится о стирке. Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    }
+  },
+  "contentDetails": {
+    "duration": "PT4M29S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2290869",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/aR3cjYClnDA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
