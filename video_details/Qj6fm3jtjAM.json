@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "IERjG4FRns5MpwPCpil_WT7Zq1Q",
+  "id": "Qj6fm3jtjAM",
+  "snippet": {
+    "publishedAt": "2016-05-13T06:24:43Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "VLOG 1 Год Каналу  Kids Diana Show Парк Развлечений в День Рождения Amusement Park in the Birthday",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Qj6fm3jtjAM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Qj6fm3jtjAM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Qj6fm3jtjAM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Qj6fm3jtjAM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "vlog",
+      "1 год каналу",
+      "1 год",
+      "год каналу",
+      "7 чудес детства",
+      "детская игровая комната",
+      "парк развлечений",
+      "Playground",
+      "Amusement Park",
+      "день рождения",
+      "for children",
+      "детский развлекательный центр",
+      "первый день рождения",
+      "birthday",
+      "развлечения для детей",
+      "entertainment",
+      "развлечения",
+      "игры для детей",
+      "игровая",
+      "детская комната",
+      "для детей",
+      "игровая комната",
+      "amusement park",
+      "game room",
+      "игры с детьми",
+      "лет каналу",
+      "7 wonders",
+      "diana",
+      "кидс диана шоу",
+      "kids diana show",
+      "Диана"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "VLOG 1 Год Каналу  Kids Diana Show Парк Развлечений в День Рождения Amusement Park in the Birthday",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "12151474",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Qj6fm3jtjAM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
