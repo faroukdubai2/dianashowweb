@@ -1,0 +1,108 @@
+{
+  "kind": "youtube#video",
+  "etag": "L711kjMUWiuGmwJDX0DtPgJ7LRE",
+  "id": "7U5zcHu39JU",
+  "snippet": {
+    "publishedAt": "2015-12-21T09:17:39Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Дубаи ОАЭ День #4 «Затерянный мир» в Атлантисе Океанариум Atlantis the Palm City Of Dubai",
+    "description": "https://youtu.be/7U5zcHu39JU Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7U5zcHu39JU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7U5zcHu39JU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7U5zcHu39JU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7U5zcHu39JU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "VLOG",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "мис кети",
+      "miss katy",
+      "атлантис",
+      "Atlantis the Palm",
+      "City Of Dubai",
+      "Катя в Дубаи",
+      "Диана в Дубаи",
+      "Дубаи ОАЕ",
+      "Макс в Дубаи",
+      "Duabi",
+      "UAE",
+      "travel",
+      "video for kids",
+      "Entertainment in Dubai",
+      "United Arab Emirates"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Дубаи ОАЭ День #4 «Затерянный мир» в Атлантисе Океанариум Atlantis the Palm City Of Dubai",
+      "description": "https://youtu.be/7U5zcHu39JU Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT13M31S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "105486",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7U5zcHu39JU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Pet",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
