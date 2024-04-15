@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "_nlaBafy5NkSZ51Hk2PMKKO1UX8",
+  "id": "DY_B-c6s1RA",
+  "snippet": {
+    "publishedAt": "2016-02-06T07:04:50Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка Монстер Хай Monster High Doll Unboxing Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DY_B-c6s1RA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DY_B-c6s1RA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DY_B-c6s1RA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/DY_B-c6s1RA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "куклы",
+      "куклы монстер хай",
+      "монстр хай",
+      "монстер хай сериал",
+      "монстер хай мультик",
+      "мои монстер хай",
+      "распаковка монстер хай",
+      "монстер хай куклы",
+      "baby",
+      "baby doll",
+      "monster high español",
+      "monster high videos",
+      "monster high movie",
+      "monster high song",
+      "diana ross show",
+      "doll",
+      "мои куклы"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка Монстер Хай Monster High Doll Unboxing Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M48S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "180394",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/DY_B-c6s1RA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
