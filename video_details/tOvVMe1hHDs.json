@@ -1,0 +1,82 @@
+{
+  "kind": "youtube#video",
+  "etag": "0EnE_G5dJ1LtuiUJgmdcO4Gbqgc",
+  "id": "tOvVMe1hHDs",
+  "snippet": {
+    "publishedAt": "2017-01-10T08:29:04Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Диана и Рома на новогоднем шоу \"Музей Сказок для детей\"",
+    "description": "Сегодня Диана и Рома гости Музея Сказок для детей. Здесь каждый ребенок становится участником новогоднего представления. Путешествие начинается с экскурсии по музею и обзору его экспонатов. Через некоторое время дети видят настоящее чудо: экспонаты начинают оживать, а посетители погружаться в сказочный мир добра, искренности и новогодней надежды...\nKids Diana Show: https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?view_as=subscriber Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tOvVMe1hHDs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tOvVMe1hHDs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tOvVMe1hHDs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/tOvVMe1hHDs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "ВЛОГ",
+      "рома и диана",
+      "новогоднее шоу",
+      "музей сказок",
+      "для детей",
+      "диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Диана и Рома на новогоднем шоу \"Музей Сказок для детей\"",
+      "description": "Сегодня Диана и Рома гости Музея Сказок для детей. Здесь каждый ребенок становится участником новогоднего представления. Путешествие начинается с экскурсии по музею и обзору его экспонатов. Через некоторое время дети видят настоящее чудо: экспонаты начинают оживать, а посетители погружаться в сказочный мир добра, искренности и новогодней надежды...\nKids Diana Show: https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?view_as=subscriber Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT23M38S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1899001",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/tOvVMe1hHDs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
