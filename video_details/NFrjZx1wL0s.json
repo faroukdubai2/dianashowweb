@@ -1,0 +1,87 @@
+{
+  "kind": "youtube#video",
+  "etag": "uB_FIXWCEgat-4M3Q3fMTTljEjM",
+  "id": "NFrjZx1wL0s",
+  "snippet": {
+    "publishedAt": "2023-09-21T11:15:03Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma's Mighty PAW Patrol Adventure!",
+    "description": "PAW PATROL: THE MIGHTY MOVIE. ONLY IN THEATRES SEPTEMBER 29! Tickets Available Now!\"  #PAWPatrolMovie https://www.pawpatrol.movie\n\nWhen a magical meteor crash lands in Adventure City, it gives the PAW Patrol pups superpowers, transforming them into The MIGHTY PUPS! For Skye, the smallest member of the team, her new powers are a dream come true. But things take a turn for the worse when the pups' archrival Humdinger breaks out of jail and teams up with a mad scientist to steal the superpowers for the two villains. With the fate of Adventure City hanging in the balance, the Mighty Pups have to stop the supervillains before it's too late, and Skye will need to learn that even the smallest pup can make the biggest difference.\n\n#PAWPatrolMovie\n\nFacebook: http://facebook.com/PAWPatrolMovie\n\nInstagram: http://instagram.com/PAWPatrolMovie\n\nTwitter: https://twitter.com/pawpatrolmovie\n\nhttps://www.pawpatrol.movie\n\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NFrjZx1wL0s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NFrjZx1wL0s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NFrjZx1wL0s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/NFrjZx1wL0s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/NFrjZx1wL0s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "paw patrol",
+      "diana",
+      "kids diana show",
+      "paw patrol movie",
+      "for kids",
+      "paw patrol the mighty movie"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana and Roma's Mighty PAW Patrol Adventure!",
+      "description": "PAW PATROL: THE MIGHTY MOVIE. ONLY IN THEATRES SEPTEMBER 29! Tickets Available Now!\"  #PAWPatrolMovie https://www.pawpatrol.movie\n\nWhen a magical meteor crash lands in Adventure City, it gives the PAW Patrol pups superpowers, transforming them into The MIGHTY PUPS! For Skye, the smallest member of the team, her new powers are a dream come true. But things take a turn for the worse when the pups' archrival Humdinger breaks out of jail and teams up with a mad scientist to steal the superpowers for the two villains. With the fate of Adventure City hanging in the balance, the Mighty Pups have to stop the supervillains before it's too late, and Skye will need to learn that even the smallest pup can make the biggest difference.\n\n#PAWPatrolMovie\n\nFacebook: http://facebook.com/PAWPatrolMovie\n\nInstagram: http://instagram.com/PAWPatrolMovie\n\nTwitter: https://twitter.com/pawpatrolmovie\n\nhttps://www.pawpatrol.movie\n\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M46S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "12346486",
+    "likeCount": "22361",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NFrjZx1wL0s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Entertainment",
+      "https://en.wikipedia.org/wiki/Film"
+    ]
+  },
+  "recordingDetails": {}
+}
