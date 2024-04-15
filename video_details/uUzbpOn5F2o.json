@@ -1,0 +1,87 @@
+{
+  "kind": "youtube#video",
+  "etag": "JXXuqY1FxqDJMAnAvZahiP11H5I",
+  "id": "uUzbpOn5F2o",
+  "snippet": {
+    "publishedAt": "2022-07-14T12:05:22Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Roma and Oliver play Different Jobs and Professions",
+    "description": "Explore different professions with Diana, Roma and baby Oliver. With this compilation, the little ones will discover what a doctor does, or a policeman, auto mechanic, musician, fireman, baker, artist, hairdresser, astronaut, builders and and more! Introducing about Job and Occupation names early is important for kids to increase their motivation to study. An excellent resource for early childhood education.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uUzbpOn5F2o/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uUzbpOn5F2o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uUzbpOn5F2o/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/uUzbpOn5F2o/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/uUzbpOn5F2o/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana Roma and Oliver play Different Jobs and Professions",
+      "description": "Explore different professions with Diana, Roma and baby Oliver. With this compilation, the little ones will discover what a doctor does, or a policeman, auto mechanic, musician, fireman, baker, artist, hairdresser, astronaut, builders and and more! Introducing about Job and Occupation names early is important for kids to increase their motivation to study. An excellent resource for early childhood education.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT10M48S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "38066872",
+    "likeCount": "105556",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/uUzbpOn5F2o\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
