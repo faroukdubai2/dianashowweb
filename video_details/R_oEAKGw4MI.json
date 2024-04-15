@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "zBrWLM1Af9sAOkkKfmOuLEOs7QI",
+  "id": "R_oEAKGw4MI",
+  "snippet": {
+    "publishedAt": "2020-08-22T07:08:33Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Going To Party - Dress Up And Hair",
+    "description": "Diana is going to a party. She does her hair and dresses using magical pieces from Love, Diana: Hairbrush, Hair ribbons, Backpack and Trunk.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/\n\n#LoveDiana #Hairbrush #Hairribbons #Backpack #Trunk Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/R_oEAKGw4MI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/R_oEAKGw4MI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/R_oEAKGw4MI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/R_oEAKGw4MI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/R_oEAKGw4MI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana",
+      "going to party",
+      "dress up",
+      "hair",
+      "pretend play",
+      "party",
+      "diana and roma",
+      "love diana",
+      "princess of play",
+      "diana y roma",
+      "roma and diana",
+      "kids diana show",
+      "#LoveDiana",
+      "diana doll"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana Going To Party - Dress Up And Hair",
+      "description": "Diana is going to a party. She does her hair and dresses using magical pieces from Love, Diana: Hairbrush, Hair ribbons, Backpack and Trunk.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/\n\n#LoveDiana #Hairbrush #Hairribbons #Backpack #Trunk Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "19513324",
+    "likeCount": "61269",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/R_oEAKGw4MI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
