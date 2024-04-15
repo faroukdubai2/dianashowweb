@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "e6vTMWZ9LMyF4dTv4ydY9f1ZoR0",
+  "id": "lTqI_ZYjbZA",
+  "snippet": {
+    "publishedAt": "2024-04-07T11:00:27Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Barbie House VS Spiderman House",
+    "description": "Barbie and Spiderman go about their everyday routines in their own houses! See how their habits and activities differ in this fun comparison video. Who has the better lifestyle? Watch to find out!\n\n00:00 Barbie House VS Spiderman House\n04:56 Barbie and Ken Pink vs. Blue Challenge\n11:24 Girls vs Boys Challenge\n18:19 Diana's Glam Day Out at the Mermaids of Arabia\n22:11 Grinch vs Santa Challenge \n26:26 Pink vs Black Challenge\n30:40 Purple VS Orange Challenge\n36:53 Pink vs. Black Challenge\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lTqI_ZYjbZA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lTqI_ZYjbZA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lTqI_ZYjbZA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/lTqI_ZYjbZA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/lTqI_ZYjbZA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "family friendly",
+      "family content",
+      "english story",
+      "kids videos",
+      "barbie"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Barbie House VS Spiderman House",
+      "description": "Barbie and Spiderman go about their everyday routines in their own houses! See how their habits and activities differ in this fun comparison video. Who has the better lifestyle? Watch to find out!\n\n00:00 Barbie House VS Spiderman House\n04:56 Barbie and Ken Pink vs. Blue Challenge\n11:24 Girls vs Boys Challenge\n18:19 Diana's Glam Day Out at the Mermaids of Arabia\n22:11 Grinch vs Santa Challenge \n26:26 Pink vs Black Challenge\n30:40 Purple VS Orange Challenge\n36:53 Pink vs. Black Challenge\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT47M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2998999",
+    "likeCount": "7485",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lTqI_ZYjbZA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
