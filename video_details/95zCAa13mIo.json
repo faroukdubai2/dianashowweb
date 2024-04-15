@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "IaZ2p4vflJNxGmLGSElffB-aPkY",
+  "id": "95zCAa13mIo",
+  "snippet": {
+    "publishedAt": "2018-06-05T05:37:39Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Игра \"Найди Фрукт\" Рома или Диана - Кто Быстрее?",
+    "description": "Рома и Диана играют в парке. Мама говорит какой Фрукт или Овощ нужно найти, а Рома и Диана выполняют задание. Кто из детей окажется быстрее - Рома или Диана? \nVideo for Kids, playing in the Park for kids Fun Play time with Roma and Diana\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/95zCAa13mIo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/95zCAa13mIo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/95zCAa13mIo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/95zCAa13mIo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/95zCAa13mIo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "игра",
+      "найди фрукт",
+      "рома и диана",
+      "кто быстрее",
+      "видео для детей",
+      "children playing",
+      "playing in the Park",
+      "playground",
+      "playground for kids",
+      "kids play time",
+      "Fun Play time",
+      "indoor playground",
+      "kids have fun",
+      "for kids",
+      "video for kids",
+      "диана и рома",
+      "kids video",
+      "family fun",
+      "playtime",
+      "Roma and Diana",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Игра \"Найди Фрукт\" Рома или Диана - Кто Быстрее?",
+      "description": "Рома и Диана играют в парке. Мама говорит какой Фрукт или Овощ нужно найти, а Рома и Диана выполняют задание. Кто из детей окажется быстрее - Рома или Диана? \nVideo for Kids, playing in the Park for kids Fun Play time with Roma and Diana\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT3M49S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1461302",
+    "likeCount": "2369",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/95zCAa13mIo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
