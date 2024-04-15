@@ -1,0 +1,71 @@
+{
+  "kind": "youtube#video",
+  "etag": "liY3EXyAuPgFw6W4Vtdh6UsA0pU",
+  "id": "A-S62Ed7bh0",
+  "snippet": {
+    "publishedAt": "2015-06-16T05:25:04Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "✿ VLOG Диана в Игровой  Indoor Playground Family Fun for Kids Indoor Play Area Playroom with Balls",
+    "description": "Диана гуляет в Парке Пушкина в Киеве, первый раз катается с горки на надувном батуте, пробуем кататься на Segway, также сидим в паровозике из уточек, но кататься побоялись :) Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A-S62Ed7bh0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A-S62Ed7bh0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A-S62Ed7bh0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/A-S62Ed7bh0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "✿ VLOG Диана в Игровой  Indoor Playground Family Fun for Kids Indoor Play Area Playroom with Balls",
+      "description": "Диана гуляет в Парке Пушкина в Киеве, первый раз катается с горки на надувном батуте, пробуем кататься на Segway, также сидим в паровозике из уточек, но кататься побоялись :) Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT2M46S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "534268",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/A-S62Ed7bh0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
