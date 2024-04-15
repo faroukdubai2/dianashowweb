@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "lPJYhI9mnJdPbk-95cloxrTAx7k",
+  "id": "1eKu4XZC3O8",
+  "snippet": {
+    "publishedAt": "2019-01-30T07:02:56Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана делает прически на День рождения",
+    "description": "Диана собирается на День Рождения к подружке. Девочка отправляется в салон красоты чтобы сделать красивую причёску. Стилист Рома делает девочке разнообразные причёски, но ей всё не нравится...\nINSTAGRAM Дианы https://www.instagram.com/kidsdianashow/\nKids Diana Show - http://bit.ly/2k7NrSx\nRoma Diana Vlog - https://www.youtube.com/channel/UCnF2eOdYLoaIQ_e-QCLyQ7Q Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1eKu4XZC3O8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1eKu4XZC3O8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1eKu4XZC3O8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1eKu4XZC3O8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1eKu4XZC3O8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "прически",
+      "день рождения",
+      "для детей",
+      "pretend play",
+      "beauty salon",
+      "hair salon",
+      "for kids",
+      "dress up",
+      "diana",
+      "рома и диана",
+      "диана и рома",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Диана делает прически на День рождения",
+      "description": "Диана собирается на День Рождения к подружке. Девочка отправляется в салон красоты чтобы сделать красивую причёску. Стилист Рома делает девочке разнообразные причёски, но ей всё не нравится...\nINSTAGRAM Дианы https://www.instagram.com/kidsdianashow/\nKids Diana Show - http://bit.ly/2k7NrSx\nRoma Diana Vlog - https://www.youtube.com/channel/UCnF2eOdYLoaIQ_e-QCLyQ7Q Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M9S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "21346680",
+    "likeCount": "61778",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/1eKu4XZC3O8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
