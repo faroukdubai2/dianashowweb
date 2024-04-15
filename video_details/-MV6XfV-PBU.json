@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "EJwC7p-VZQGy3Els-cvnCV4y6p0",
+  "id": "-MV6XfV-PBU",
+  "snippet": {
+    "publishedAt": "2018-05-29T06:14:40Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Подарок Бокс от Кидландия для Дианы! Детский парк профессий в Киеве",
+    "description": "Диана получила Подарок Бокс от Детского парка профессий «Кидландия»! Такой подарок можно заказать на День Рождения своему другу или подружке. \nКидландия сайт: http://www.kidlandia.ua\nKidlandia канал на YouTube: https://www.youtube.com/channel/UCmPF...\nКуда пойти с ребенком? Конечно же в Парк профессий! Детский Развлекательный Цент Kidlandia  в Киеве - это настоящая страна для детей. Здесь дети чувствуют себя взрослыми, играют и веселятся, получая знания и навыки, которые пригодятся им в реальной жизни. В Кидландии  Диана познакомилась с различными профессиями, зарабатывала игровые деньги и тратила их на развлечения и сувениры. В #Кидландия дети – главные!  \nЭто самый масштабный детский #городпрофессий в Украине. Рома и Диана очень полюбили этот Парк профессий для детей!\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-MV6XfV-PBU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-MV6XfV-PBU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-MV6XfV-PBU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-MV6XfV-PBU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-MV6XfV-PBU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "подарок",
+      "бокс",
+      "кидландия",
+      "город профессий",
+      "город профессий киев",
+      "kidlandia",
+      "парк професий",
+      "в киеве",
+      "детский город профессий",
+      "развлечения для детей",
+      "детский парк профессий",
+      "куда пойти с ребенком",
+      "детский развлекательный центр",
+      "рома и диана",
+      "kids video",
+      "for kids",
+      "roma and diana",
+      "развлечения",
+      "для детей",
+      "kids",
+      "Kids Diana Show",
+      "диана и рома",
+      "видео для детей",
+      "video for kids",
+      "for children"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Подарок Бокс от Кидландия для Дианы! Детский парк профессий в Киеве",
+      "description": "Диана получила Подарок Бокс от Детского парка профессий «Кидландия»! Такой подарок можно заказать на День Рождения своему другу или подружке. \nКидландия сайт: http://www.kidlandia.ua\nKidlandia канал на YouTube: https://www.youtube.com/channel/UCmPF...\nКуда пойти с ребенком? Конечно же в Парк профессий! Детский Развлекательный Цент Kidlandia  в Киеве - это настоящая страна для детей. Здесь дети чувствуют себя взрослыми, играют и веселятся, получая знания и навыки, которые пригодятся им в реальной жизни. В Кидландии  Диана познакомилась с различными профессиями, зарабатывала игровые деньги и тратила их на развлечения и сувениры. В #Кидландия дети – главные!  \nЭто самый масштабный детский #городпрофессий в Украине. Рома и Диана очень полюбили этот Парк профессий для детей!\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT3M43S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "905111",
+    "likeCount": "1663",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-MV6XfV-PBU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
