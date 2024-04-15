@@ -1,0 +1,110 @@
+{
+  "kind": "youtube#video",
+  "etag": "9Qlpt5aBLnItMpjEW2Kn25pZ9uU",
+  "id": "dfMAY3BewHg",
+  "snippet": {
+    "publishedAt": "2018-05-27T05:43:16Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Рома играет с необычной Куклой Реборн / Roma Pretend Play with unusual Baby Doll",
+    "description": "Рома играет с необычной Куклой Реборн. Рома, как Папа для Куклы Аватар. Кукла плачет. Рома не знает, что делать и вызывает врача. Оказалось, что куклу нужно просто покормить). Забавное видео для детей.\nRoma Pretend Play with Baby Doll Avatar. The Baby crying. Roma did not know what to do and called the doctor. It turned out that the Baby Doll needs to be fed. Funny Kids Toys video for children\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nПочему #кукла Аватар Плачет? Рома как Папа!\nРома, как Папа для #Куклы Аватар (#реборн). Кукла плачет. Рома не знает, что делать и вызывает врача. Оказалось, что куклу нужно просто покормить)). Забавное видео #длядетей Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dfMAY3BewHg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dfMAY3BewHg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dfMAY3BewHg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/dfMAY3BewHg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/dfMAY3BewHg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "рома",
+      "играет с куклой",
+      "реборн",
+      "кукла реборн аватар",
+      "roma",
+      "pretend play",
+      "kids toys",
+      "for kids",
+      "baby doll avatar",
+      "toys",
+      "kids",
+      "toy",
+      "kids pretend play",
+      "video for kids",
+      "children",
+      "playing",
+      "play",
+      "baby doll",
+      "avatar",
+      "reborn",
+      "reborn baby",
+      "doll",
+      "for children",
+      "toys for kids",
+      "диана",
+      "диана и рома",
+      "рома и диана",
+      "куклы",
+      "Kids Diana Show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Рома играет с необычной Куклой Реборн / Roma Pretend Play with unusual Baby Doll",
+      "description": "Рома играет с необычной Куклой Реборн. Рома, как Папа для Куклы Аватар. Кукла плачет. Рома не знает, что делать и вызывает врача. Оказалось, что куклу нужно просто покормить). Забавное видео для детей.\nRoma Pretend Play with Baby Doll Avatar. The Baby crying. Roma did not know what to do and called the doctor. It turned out that the Baby Doll needs to be fed. Funny Kids Toys video for children\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nПочему #кукла Аватар Плачет? Рома как Папа!\nРома, как Папа для #Куклы Аватар (#реборн). Кукла плачет. Рома не знает, что делать и вызывает врача. Оказалось, что куклу нужно просто покормить)). Забавное видео #длядетей Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT3M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "5474289",
+    "likeCount": "17493",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dfMAY3BewHg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
