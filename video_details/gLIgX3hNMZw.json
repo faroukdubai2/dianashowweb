@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#video",
+  "etag": "7-XWe_i5C2QBLtI0bLfKM_auipE",
+  "id": "gLIgX3hNMZw",
+  "snippet": {
+    "publishedAt": "2024-02-01T11:30:18Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Oliver and Mom Explore New Countries | Magical Adventures",
+    "description": "Join Diana and Roma's family on a magical adventure with these fun and engaging stories for kids! \n\n00:00 Oliver and Mom Explore New Countries\n07:54 Oliver Becomes a Wizard Story\n11:43 Grinch vs Santa Challenge\n16:01 Roma celebrates his 11th birthday with friends\n20:44 Quest to Find Oliver with GPS watch\n25:26 Diana and Roma Explore an Amazing Giant House of PROFESSIONS\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gLIgX3hNMZw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gLIgX3hNMZw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gLIgX3hNMZw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/gLIgX3hNMZw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/gLIgX3hNMZw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Oliver and Mom Explore New Countries | Magical Adventures",
+      "description": "Join Diana and Roma's family on a magical adventure with these fun and engaging stories for kids! \n\n00:00 Oliver and Mom Explore New Countries\n07:54 Oliver Becomes a Wizard Story\n11:43 Grinch vs Santa Challenge\n16:01 Roma celebrates his 11th birthday with friends\n20:44 Quest to Find Oliver with GPS watch\n25:26 Diana and Roma Explore an Amazing Giant House of PROFESSIONS\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT33M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "823074",
+    "likeCount": "2187",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/gLIgX3hNMZw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
