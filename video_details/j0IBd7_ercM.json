@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#video",
+  "etag": "550VAWABHKXPKFbdLXHHqyk615g",
+  "id": "j0IBd7_ercM",
+  "snippet": {
+    "publishedAt": "2018-08-09T06:00:02Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана как НЯНЯ для Ромы! Diana pretend play a nanny",
+    "description": "Диане надоело играть с игрушками. Поэтому она решила превратить своего брата Рому в малыша и быть для него, как няня. Девочка заставляет Рому кушать кашу, одевает его в одежду для малышей, разрешает играть игрушками только для младенцев... Но когда Диана положила Рому спать - он не выдержал такой игры и сбежал...\nDiana pretend play being a Nanny for Roma. Funny video for kids\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на Kids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/j0IBd7_ercM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/j0IBd7_ercM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/j0IBd7_ercM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/j0IBd7_ercM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/j0IBd7_ercM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "рома и диана",
+      "диана",
+      "как няня",
+      "для ромы",
+      "видео для детей",
+      "игрушки",
+      "для детей",
+      "diana",
+      "pretend play",
+      "roma",
+      "nanny",
+      "funny video",
+      "roma and diana",
+      "for kids",
+      "play",
+      "kids",
+      "video for kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана как НЯНЯ для Ромы! Diana pretend play a nanny",
+      "description": "Диане надоело играть с игрушками. Поэтому она решила превратить своего брата Рому в малыша и быть для него, как няня. Девочка заставляет Рому кушать кашу, одевает его в одежду для малышей, разрешает играть игрушками только для младенцев... Но когда Диана положила Рому спать - он не выдержал такой игры и сбежал...\nDiana pretend play being a Nanny for Roma. Funny video for kids\nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на Kids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT6M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "409504715",
+    "likeCount": "1512867",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/j0IBd7_ercM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
