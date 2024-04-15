@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#video",
+  "etag": "atG5Wcb-zpnbcnKU82JLqvgB8oE",
+  "id": "XulTA3cUA3E",
+  "snippet": {
+    "publishedAt": "2016-09-10T07:08:14Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана и Рома приготовили Подарок для Лунтика - Кубики, Kids Videos",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XulTA3cUA3E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XulTA3cUA3E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XulTA3cUA3E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/XulTA3cUA3E/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/XulTA3cUA3E/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "подарок для лунтика",
+      "от Дианы",
+      "про лунтика",
+      "Kids Videos",
+      "Игры для Детей",
+      "Funny Kids",
+      "лунтик и его друзья",
+      "лунтик 2016",
+      "Kids Diana Show",
+      "Диана",
+      "Кидс Диана Шоу",
+      "Рома и Диана",
+      "подарок",
+      "мультики для детей",
+      "Luntik",
+      "Рома",
+      "большие",
+      "кубики",
+      "лунтик смотреть",
+      "лунтик игры"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана и Рома приготовили Подарок для Лунтика - Кубики, Kids Videos",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M45S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "27057038",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/XulTA3cUA3E\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
