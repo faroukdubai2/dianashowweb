@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "eJWW-7DDuLr9oPV4S8OLqLoQDo0",
+  "id": "2_jqBPrc6hk",
+  "snippet": {
+    "publishedAt": "2022-01-13T12:16:02Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana helps Roma get ready for school",
+    "description": "Diana and Roma are getting ready for school. Roma was late for school. Diana helps her brother to be more responsible and get ready for school by using the to-do list.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2_jqBPrc6hk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2_jqBPrc6hk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2_jqBPrc6hk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2_jqBPrc6hk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2_jqBPrc6hk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "roma and diana",
+      "diana roma",
+      "responsibility",
+      "for kids",
+      "school story",
+      "get ready for school",
+      "to-do list",
+      "daily routine",
+      "school routine",
+      "morning routine",
+      "school",
+      "kids videos",
+      "back to school",
+      "school morning routine"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana helps Roma get ready for school",
+      "description": "Diana and Roma are getting ready for school. Roma was late for school. Diana helps her brother to be more responsible and get ready for school by using the to-do list.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT14M5S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "136555627",
+    "likeCount": "501677",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/2_jqBPrc6hk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
