@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "Jwra2ekHUpkR6hdLdehcudZMXm0",
+  "id": "j_I23G_zq8g",
+  "snippet": {
+    "publishedAt": "2016-01-02T04:27:32Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ПОДАРКИ Дианочке от Деда Мороза Игрушки под Новогодней Ёлкой Christmas Morning 2015",
+    "description": "Дианочка проснувшись нашла очень много игрушек под ёлкой, она вместе с братиком Ромой достает их из оберточной бумаги и внимательно изучает, что именно подарили ей в этот Новый Год. \nChristmas Morning 2015 Unboxing toys\nhttps://youtu.be/j_I23G_zq8g\n\nКомпозиция \"Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical\" принадлежит исполнителю Kevin MacLeod. Лицензия: Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).\nОригинальная версия: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303.\nИсполнитель: http://incompetech.com/ \n\nКомпозиция \"Daily Beetle\" принадлежит исполнителю Kevin MacLeod. Лицензия: Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).\nОригинальная версия: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500025.\nИсполнитель: http://incompetech.com/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/j_I23G_zq8g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/j_I23G_zq8g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/j_I23G_zq8g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/j_I23G_zq8g/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "маленькая девочка раскрывает сюрпризы",
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "девочка играется игрушками",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "маленькая девочка открывает сюрпризы",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "мис кети",
+      "miss katy",
+      "Christmas Morning 2015",
+      "ПОДАРКИ от Деда Мороза"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ПОДАРКИ Дианочке от Деда Мороза Игрушки под Новогодней Ёлкой Christmas Morning 2015",
+      "description": "Дианочка проснувшись нашла очень много игрушек под ёлкой, она вместе с братиком Ромой достает их из оберточной бумаги и внимательно изучает, что именно подарили ей в этот Новый Год. \nChristmas Morning 2015 Unboxing toys\nhttps://youtu.be/j_I23G_zq8g\n\nКомпозиция \"Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical\" принадлежит исполнителю Kevin MacLeod. Лицензия: Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).\nОригинальная версия: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303.\nИсполнитель: http://incompetech.com/ \n\nКомпозиция \"Daily Beetle\" принадлежит исполнителю Kevin MacLeod. Лицензия: Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).\nОригинальная версия: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500025.\nИсполнитель: http://incompetech.com/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT19M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9799066",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/j_I23G_zq8g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
