@@ -1,0 +1,101 @@
+{
+  "kind": "youtube#video",
+  "etag": "OzOxnXiZTDq5MFlvPRbrCLvAM78",
+  "id": "drju_rfFEeU",
+  "snippet": {
+    "publishedAt": "2018-03-08T12:59:25Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana pretend play with Baby Doll Funny videos compilation by Kids Diana Show",
+    "description": "Funny videos compilation by Kids Diana Show. Diana pretend play with Baby Doll kids toys. Baby Born Dolls - this is Diana's favorite toys that great for imaginative play!\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe to the channel:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nДиана играет с куклами Беби бон, сборник видео Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/drju_rfFEeU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/drju_rfFEeU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/drju_rfFEeU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/drju_rfFEeU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/drju_rfFEeU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Diana",
+      "pretend play",
+      "baby doll",
+      "kids toys",
+      "toys",
+      "toys for kids",
+      "baby born",
+      "беби бон видео",
+      "беби бон",
+      "baby born doll",
+      "funny videos",
+      "compilation",
+      "kids",
+      "рома и диана",
+      "for kids",
+      "play",
+      "funny",
+      "kids video",
+      "диана",
+      "Kids Diana Show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana pretend play with Baby Doll Funny videos compilation by Kids Diana Show",
+      "description": "Funny videos compilation by Kids Diana Show. Diana pretend play with Baby Doll kids toys. Baby Born Dolls - this is Diana's favorite toys that great for imaginative play!\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe to the channel:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nДиана играет с куклами Беби бон, сборник видео Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT12M56S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "250830696",
+    "likeCount": "898851",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/drju_rfFEeU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
