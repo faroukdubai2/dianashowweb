@@ -1,0 +1,123 @@
+{
+  "kind": "youtube#video",
+  "etag": "6Bv8apRNuIyuZNtA5avl6jIFFbY",
+  "id": "zNuEYKxnghc",
+  "snippet": {
+    "publishedAt": "2016-08-04T06:57:31Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Играем в Магазин МАКДОНАЛЬДС НА КОЛЕСАХ Видео Для Детей McDonalds",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zNuEYKxnghc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zNuEYKxnghc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zNuEYKxnghc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/zNuEYKxnghc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/zNuEYKxnghc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "ИГРАЕМ",
+      "игры",
+      "В МАГАЗИН",
+      "МАКДОНАЛЬДС",
+      "НА КОЛЕСАХ",
+      "McDonalds",
+      "shop",
+      "с Детьми",
+      "развивающие",
+      "Игрушки Для Детей",
+      "Supermarket",
+      "Shopping",
+      "fun",
+      "развивающие игры",
+      "для детей",
+      "game",
+      "for children",
+      "play store",
+      "игровой набор",
+      "Игры Для Детей",
+      "Educational game",
+      "Kids",
+      "Diana Show",
+      "Диана",
+      "видео для детей",
+      "игрушки",
+      "Ecoiffier",
+      "Кидс Диана Шоу",
+      "распаковка",
+      "VLOG",
+      "обзор игрушек",
+      "Diana",
+      "for kids",
+      "Toys Review",
+      "unboxing",
+      "магазин",
+      "Games",
+      "Educational",
+      "Toys",
+      "игрушечная еда",
+      "Games for children",
+      "сюжетно-ролевая игра",
+      "игра"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Играем в Магазин МАКДОНАЛЬДС НА КОЛЕСАХ Видео Для Детей McDonalds",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT14M28S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "26375512",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/zNuEYKxnghc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
