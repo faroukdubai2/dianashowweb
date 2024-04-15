@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "sbdAL98vzoRFbueJ07EDe069p4M",
+  "id": "c4zcmZQkh_U",
+  "snippet": {
+    "publishedAt": "2020-08-26T07:07:18Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana plays with  Kindi Kids dolls",
+    "description": "This is a paid ad for Kindi Kids from Moose Toys. Parents, the Kindi Kids animated show is available to watch on YouTube, here: https://bit.ly/3hZ0vYm\n\nDiana plays with Kindi Kids dolls: Mysta Bella, Marsha Mello, Donatina, Cindy Pops, Summer Peaches. They paint together, change dresses, treat a cat and play outside.\n\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/c4zcmZQkh_U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/c4zcmZQkh_U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/c4zcmZQkh_U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/c4zcmZQkh_U/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/c4zcmZQkh_U/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "kindi kids",
+      "moose toys",
+      "childrens toys",
+      "dolls",
+      "kindergarten",
+      "family fun",
+      "cartoons",
+      "kindikids",
+      "kindy",
+      "jessicake",
+      "donatina",
+      "marsha mello",
+      "cartoons for kids",
+      "moose",
+      "toys",
+      "toy company",
+      "diana",
+      "roma and diana",
+      "diana and roma",
+      "baby doll",
+      "doll",
+      "play dolls",
+      "kids play",
+      "pretend",
+      "kids toys",
+      "for girls"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana plays with  Kindi Kids dolls",
+      "description": "This is a paid ad for Kindi Kids from Moose Toys. Parents, the Kindi Kids animated show is available to watch on YouTube, here: https://bit.ly/3hZ0vYm\n\nDiana plays with Kindi Kids dolls: Mysta Bella, Marsha Mello, Donatina, Cindy Pops, Summer Peaches. They paint together, change dresses, treat a cat and play outside.\n\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M40S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "5987100",
+    "likeCount": "26940",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c4zcmZQkh_U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
