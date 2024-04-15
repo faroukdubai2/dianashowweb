@@ -1,0 +1,99 @@
+{
+  "kind": "youtube#video",
+  "etag": "ghA6-9hbRM98HJsluF4xCIyoroo",
+  "id": "NP1Y1u1vPbo",
+  "snippet": {
+    "publishedAt": "2016-01-03T11:52:20Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Готовим Игрушечные Бутерброды и Салат Распаковка Набора Toy Kitchen Burger salad Djeco",
+    "description": "Внимание! Сегодня Дианочка Шеф-Повар! Мы оденем красивый колпак повара и распакуем 2 интересных набора \"Деревянная игра Бутерброд с оливкой Эмили Djeco\" и Деревянная игра Djeco Салат-бар \"Розетта и Цезарь\". Диана с мамой приготовит вкуснейшие игрушечные бутерброды и очень красивые салаты! Смотреть всем!!!\nToy Kitchen Burger salad Djeco\nhttps://youtu.be/NP1Y1u1vPbo Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NP1Y1u1vPbo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NP1Y1u1vPbo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NP1Y1u1vPbo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/NP1Y1u1vPbo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "маленькая девочка раскрывает сюрпризы",
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "девочка играется игрушками",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "маленькая девочка открывает сюрпризы",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "Djeco"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Готовим Игрушечные Бутерброды и Салат Распаковка Набора Toy Kitchen Burger salad Djeco",
+      "description": "Внимание! Сегодня Дианочка Шеф-Повар! Мы оденем красивый колпак повара и распакуем 2 интересных набора \"Деревянная игра Бутерброд с оливкой Эмили Djeco\" и Деревянная игра Djeco Салат-бар \"Розетта и Цезарь\". Диана с мамой приготовит вкуснейшие игрушечные бутерброды и очень красивые салаты! Смотреть всем!!!\nToy Kitchen Burger salad Djeco\nhttps://youtu.be/NP1Y1u1vPbo Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M6S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "812301",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NP1Y1u1vPbo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
