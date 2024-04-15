@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#video",
+  "etag": "UYIOdYjQfGduAcQKUmX9siy_ugE",
+  "id": "-kXs3dpS-7M",
+  "snippet": {
+    "publishedAt": "2018-03-03T06:22:01Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Новые ЛОЛ Сюрпризы для Дианы серии Питомцы LOL PETS SURPRISE",
+    "description": "Диана открывает новые Шарики-Сюрпризы 3-й серии - Питомцы. Смотрите, какие замечательные игрушки нам попались.\nNew LOL PETS SURPRISE\n\nSubscribe to our channels:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-kXs3dpS-7M/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-kXs3dpS-7M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-kXs3dpS-7M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-kXs3dpS-7M/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-kXs3dpS-7M/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "рома и диана",
+      "diana",
+      "лол сюрпризы",
+      "лол",
+      "сюрпризы",
+      "3 серия лол",
+      "Питомцы",
+      "питомцы лол",
+      "lol surprise",
+      "куклы лол",
+      "lol",
+      "l.o.l. surprise",
+      "lol surprise dolls",
+      "lol dolls",
+      "series 3",
+      "lol pets surprise",
+      "lol pets",
+      "pets"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Новые ЛОЛ Сюрпризы для Дианы серии Питомцы LOL PETS SURPRISE",
+      "description": "Диана открывает новые Шарики-Сюрпризы 3-й серии - Питомцы. Смотрите, какие замечательные игрушки нам попались.\nNew LOL PETS SURPRISE\n\nSubscribe to our channels:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M50S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2743366",
+    "likeCount": "9834",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-kXs3dpS-7M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
