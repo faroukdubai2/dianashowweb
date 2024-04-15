@@ -1,0 +1,119 @@
+{
+  "kind": "youtube#video",
+  "etag": "lGt8BelGT_6ZPMeqtS-5fAO9oJU",
+  "id": "bIvrseaTA6E",
+  "snippet": {
+    "publishedAt": "2016-06-18T02:57:28Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Строим ЗАМОК для ПРИНЦЕССЫ из Конструктора МЕГА БЛОКС Игрушки Для Девочек Mega Bloks",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bIvrseaTA6E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bIvrseaTA6E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bIvrseaTA6E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/bIvrseaTA6E/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/bIvrseaTA6E/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "большой",
+      "конструктор",
+      "конструктор Мега блокс",
+      "VLOG",
+      "игры для девочек",
+      "принцессы",
+      "games for Girls",
+      "Диана",
+      "for Kids",
+      "Принцесса",
+      "Princess",
+      "Mega",
+      "Bloks",
+      "Замок",
+      "распаковка",
+      "Playground",
+      "влог",
+      "Diana Show",
+      "for children",
+      "for kids",
+      "замок принцессы",
+      "Castle",
+      "castle Princess",
+      "giant",
+      "unboxing videos",
+      "видео для детей",
+      "video for kids",
+      "Диана Шоу",
+      "игры",
+      "для девочек",
+      "games",
+      "for Girls",
+      "lego nexo Princess",
+      "lego",
+      "игрушки",
+      "принцессы диснея",
+      "Toys",
+      "for girls",
+      "Unboxing"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Строим ЗАМОК для ПРИНЦЕССЫ из Конструктора МЕГА БЛОКС Игрушки Для Девочек Mega Bloks",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9471334",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/bIvrseaTA6E\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
