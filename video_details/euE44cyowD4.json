@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "AjidLX-GgVHr2ffc3_ffddgQgbo",
+  "id": "euE44cyowD4",
+  "snippet": {
+    "publishedAt": "2016-10-08T06:38:44Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Идем в Зоопарк МАДАГАСКАР с собачкой МАКС из мультика Тайная Жизнь Домашних Животных",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/euE44cyowD4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/euE44cyowD4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/euE44cyowD4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/euE44cyowD4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Диана",
+      "Макс",
+      "зоопарк",
+      "Мадагаскар",
+      "Влог",
+      "Америка",
+      "Vlog",
+      "Kids Diana Show",
+      "Diana",
+      "тайная жизнь домашних животных",
+      "Кидс Диана Шоу",
+      "pets",
+      "madagascar",
+      "тайная жизнь домашних животных смотреть онлайн",
+      "max",
+      "детский канал",
+      "kids",
+      "животные",
+      "для детей",
+      "парк",
+      "Рома и Диана",
+      "life",
+      "toy",
+      "animals",
+      "new york city",
+      "Central Park",
+      "toy max",
+      "видео для детей",
+      "про животных",
+      "pets маx",
+      "мадагаскар"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Идем в Зоопарк МАДАГАСКАР с собачкой МАКС из мультика Тайная Жизнь Домашних Животных",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT8M54S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2449714",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/euE44cyowD4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
