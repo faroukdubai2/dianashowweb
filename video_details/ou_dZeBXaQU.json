@@ -1,0 +1,100 @@
+{
+  "kind": "youtube#video",
+  "etag": "Ibcr9VwNumYAqoaKeBqOy5gEKao",
+  "id": "ou_dZeBXaQU",
+  "snippet": {
+    "publishedAt": "2018-05-17T10:21:20Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Fun Outdoor Playground for Children Activities",
+    "description": "Outdoor Playground Fun for Children Activities with Kids Diana Show! Family Fun Adventure playground has kids slides, playhouse and more! Great Outdoor Playground Fun for Children Activities with Diana! \nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ou_dZeBXaQU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ou_dZeBXaQU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ou_dZeBXaQU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ou_dZeBXaQU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ou_dZeBXaQU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Fun",
+      "playground",
+      "outdoor playground",
+      "outdoor playground for kids",
+      "kids park",
+      "family fun park",
+      "children activities",
+      "children",
+      "kids play area",
+      "kids playing",
+      "kids video",
+      "children play center",
+      "Diana",
+      "kids videos",
+      "for kids",
+      "kids playground",
+      "roma and diana",
+      "рома и диана",
+      "диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Fun Outdoor Playground for Children Activities",
+      "description": "Outdoor Playground Fun for Children Activities with Kids Diana Show! Family Fun Adventure playground has kids slides, playhouse and more! Great Outdoor Playground Fun for Children Activities with Diana! \nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT6M34S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "19290360",
+    "likeCount": "7249",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ou_dZeBXaQU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
