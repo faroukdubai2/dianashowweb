@@ -1,0 +1,91 @@
+{
+  "kind": "youtube#video",
+  "etag": "2WEqgUN8QXqMbZdRnCKIybSy68U",
+  "id": "FdrGln3hgI4",
+  "snippet": {
+    "publishedAt": "2020-06-04T07:02:38Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Pretend Play with Musical Instruments for Kids",
+    "description": "Diana plays the drum from the kitchen pan. Dad gives a little girl toy musical instruments. Diana plays drums, guitar, piano and singing. But such toys are too loud! Dad finds a quiet toy for his daughter!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/FdrGln3hgI4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/FdrGln3hgI4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/FdrGln3hgI4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/FdrGln3hgI4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/FdrGln3hgI4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and dad",
+      "diana",
+      "pretend play",
+      "musical instruments",
+      "for kids",
+      "musical",
+      "toys",
+      "toys for kids",
+      "diana and roma",
+      "Kids diana show",
+      "روما وديانا"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana Pretend Play with Musical Instruments for Kids",
+      "description": "Diana plays the drum from the kitchen pan. Dad gives a little girl toy musical instruments. Diana plays drums, guitar, piano and singing. But such toys are too loud! Dad finds a quiet toy for his daughter!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT4M27S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "61775077",
+    "likeCount": "138095",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/FdrGln3hgI4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
