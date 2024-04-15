@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#video",
+  "etag": "h0xnRrBqNApSGFitnKd29OD63CA",
+  "id": "ECB2teIpEnU",
+  "snippet": {
+    "publishedAt": "2016-12-10T12:33:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "День Рождения МИННИ МАУС Принимаем Гостей, Видео для Детей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ECB2teIpEnU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ECB2teIpEnU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ECB2teIpEnU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ECB2teIpEnU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "минни маус",
+      "диана и рома",
+      "mickey mouse",
+      "микки маус",
+      "minnie mouse",
+      "рома и диана",
+      "диана мини маус",
+      "День Рождения МИННИ МАУС",
+      "Видео для Детей"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "День Рождения МИННИ МАУС Принимаем Гостей, Видео для Детей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2416790",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ECB2teIpEnU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
