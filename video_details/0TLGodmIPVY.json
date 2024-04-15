@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "yOgqSAjo0u2_3jUQvz_K0bYM3v4",
+  "id": "0TLGodmIPVY",
+  "snippet": {
+    "publishedAt": "2016-12-24T07:53:45Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Волшебная Карета для маленькой Принцессы Видео для Детей DISNEY PRINCESS CARRIAGE",
+    "description": "Волшебная Карета для маленькой Принцессы Видео для Детей DISNEY PRINCESS CARRIAGE Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0TLGodmIPVY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0TLGodmIPVY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0TLGodmIPVY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0TLGodmIPVY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "принцесса",
+      "карета",
+      "princess",
+      "disney",
+      "принцесса софия",
+      "carriage",
+      "рома и диана",
+      "диана принцесса",
+      "диана карета",
+      "видео для детей",
+      "princesas disney",
+      "распаковка",
+      "для девочек",
+      "принцессы диснея",
+      "Волшебная Карета",
+      "DISNEY PRINCESS CARRIAGE"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Волшебная Карета для маленькой Принцессы Видео для Детей DISNEY PRINCESS CARRIAGE",
+      "description": "Волшебная Карета для маленькой Принцессы Видео для Детей DISNEY PRINCESS CARRIAGE Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "20105428",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0TLGodmIPVY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
