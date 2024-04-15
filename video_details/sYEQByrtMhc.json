@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "rGJRNIdAOBtMduYx9WSAhtKai5g",
+  "id": "sYEQByrtMhc",
+  "snippet": {
+    "publishedAt": "2018-06-09T05:26:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Рома и Диана играют в прятки с родителями Roma and Diana plays Hide and Seek in the Hotel",
+    "description": "Best Hide and Seek Spot in the Hote with Kids Diana Show! We are on a fun family trip and have fun playing hide n seek! Roma and Diana plays in the Hotel with Mommy and Daddy! Who will win or lose this fun hide n seek game? \nInsta Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nИграем в ПРЯТКИ в Отеле с мамой и папой! Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/sYEQByrtMhc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/sYEQByrtMhc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/sYEQByrtMhc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/sYEQByrtMhc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/sYEQByrtMhc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Roma and Diana",
+      "hide and seek",
+      "hide n seek",
+      "hide",
+      "seek",
+      "best hiding spot",
+      "pretend play",
+      "pretend playtime",
+      "kids pretend playtime",
+      "hide n seek games",
+      "kids activities",
+      "best hide and seek",
+      "hide and seek spot",
+      "best hide and seek spot",
+      "kids hide and seek",
+      "diana",
+      "plays",
+      "roma",
+      "рома и диана",
+      "kids video",
+      "video for kids",
+      "kids diana show",
+      "for kids",
+      "kids",
+      "прятки"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Рома и Диана играют в прятки с родителями Roma and Diana plays Hide and Seek in the Hotel",
+      "description": "Best Hide and Seek Spot in the Hote with Kids Diana Show! We are on a fun family trip and have fun playing hide n seek! Roma and Diana plays in the Hotel with Mommy and Daddy! Who will win or lose this fun hide n seek game? \nInsta Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh\n\nИграем в ПРЯТКИ в Отеле с мамой и папой! Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT13M23S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "11222619",
+    "likeCount": "33535",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/sYEQByrtMhc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
