@@ -1,0 +1,109 @@
+{
+  "kind": "youtube#video",
+  "etag": "jcyAIEX7lcYVX_Jhf33qcmdDcpU",
+  "id": "uGxbbTQoY3E",
+  "snippet": {
+    "publishedAt": "2016-03-04T07:52:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка игрушек Черепашки Ниндзя Спанч Боб Даша Путешественница",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uGxbbTQoY3E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uGxbbTQoY3E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uGxbbTQoY3E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/uGxbbTQoY3E/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "ниндзя",
+      "черепашки",
+      "ниндзя черепашки",
+      "tmnt",
+      "raphael",
+      "спанч боб",
+      "губка боб",
+      "spongebob",
+      "spongebob squarepants",
+      "patrick",
+      "боб",
+      "Даша Путешественница",
+      "на русском",
+      "dora the explorer",
+      "dora",
+      "распаковка",
+      "kinder surprise",
+      "surprise egg",
+      "дисней",
+      "kids toys",
+      "маленькая девочка раскрывает сюрпризы",
+      "распаковывает яйца",
+      "обзор игрушек",
+      "детский канал",
+      "VLOG",
+      "малышь распаковывает игрушки",
+      "видео для детей",
+      "Toys",
+      "Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка игрушек Черепашки Ниндзя Спанч Боб Даша Путешественница",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT6M3S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "153581",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/uGxbbTQoY3E\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
