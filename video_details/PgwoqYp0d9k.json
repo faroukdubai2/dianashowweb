@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "0I5cVUj55cbGQdxg5X59fsIYd-A",
+  "id": "PgwoqYp0d9k",
+  "snippet": {
+    "publishedAt": "2022-09-06T13:00:12Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma Entertainment for kids at the hotel",
+    "description": "Diana and Roma have fun at the Nirvana Dolce Vita Hotel in Turkey. Kids show that at the resort you need to take a break from gadgets and spend time playing in the kids club, water park, playground, and also visit the children's disco.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PgwoqYp0d9k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PgwoqYp0d9k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PgwoqYp0d9k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/PgwoqYp0d9k/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/PgwoqYp0d9k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "entertainment at the hotel",
+      "hotel",
+      "family friendly",
+      "play with dad",
+      "family play",
+      "family content"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana and Roma Entertainment for kids at the hotel",
+      "description": "Diana and Roma have fun at the Nirvana Dolce Vita Hotel in Turkey. Kids show that at the resort you need to take a break from gadgets and spend time playing in the kids club, water park, playground, and also visit the children's disco.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M58S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "25755699",
+    "likeCount": "37743",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/PgwoqYp0d9k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
