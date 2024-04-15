@@ -1,0 +1,81 @@
+{
+  "kind": "youtube#video",
+  "etag": "3JSDi1W11y3hlK7gQwBuXcztITU",
+  "id": "kumk3eulCxk",
+  "snippet": {
+    "publishedAt": "2015-07-04T06:20:02Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "✿ VLOG Гуляем в зоопарке \"12 месяцев\" Демидов Киев Happy Kids At The Zoo",
+    "description": "Зоопарк 12 месяцев Демидов. Под Киевом открылся зоопарк в стиле Disney - «ХII Месяцев». На территории проживает более 100 животных - медведи, верблюды, полярные волки, белые львы и тигры, носорог, жирафы, рыси, пумы, росомахи, гиены и много-много других зверей. Диане и Роме очень понравился зоопарк! Счастливые дети в зоопарке Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kumk3eulCxk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kumk3eulCxk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kumk3eulCxk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/kumk3eulCxk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Zoo (Literature Subject)",
+      "Tourist Destination",
+      "Happy",
+      "Зоопарк",
+      "Happy Kids",
+      "Счастливые дети",
+      "At The Zoo"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "✿ VLOG Гуляем в зоопарке \"12 месяцев\" Демидов Киев Happy Kids At The Zoo",
+      "description": "Зоопарк 12 месяцев Демидов. Под Киевом открылся зоопарк в стиле Disney - «ХII Месяцев». На территории проживает более 100 животных - медведи, верблюды, полярные волки, белые львы и тигры, носорог, жирафы, рыси, пумы, росомахи, гиены и много-много других зверей. Диане и Роме очень понравился зоопарк! Счастливые дети в зоопарке Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT21M6S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "101378",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/kumk3eulCxk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
