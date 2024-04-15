@@ -1,0 +1,117 @@
+{
+  "kind": "youtube#video",
+  "etag": "5Lfzj_ePbHqOGY2gtF6E1Pc71ow",
+  "id": "-2coloF18As",
+  "snippet": {
+    "publishedAt": "2016-07-09T06:19:20Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "VLOG Развлекательный Центр ЕДЕМ НА КАЧЕЛИ Видео Для Детей Playground Fun video Kids Amusement Park",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-2coloF18As/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-2coloF18As/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-2coloF18As/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-2coloF18As/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-2coloF18As/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "видео для детей",
+      "детское видео",
+      "детский влог",
+      "игрушки",
+      "VLOG",
+      "распаковка",
+      "for children",
+      "for kids",
+      "reality show online",
+      "kids",
+      "fun",
+      "family",
+      "video",
+      "amusement",
+      "развлечения",
+      "влог",
+      "entertainment",
+      "amusement park",
+      "детская площадка",
+      "развлечения для детей",
+      "парк развлечений",
+      "playground",
+      "kids video",
+      "игровая комната",
+      "детский развлекательный центр",
+      "Fun video",
+      "Vlog for children",
+      "family vlogs",
+      "влоги",
+      "беловег",
+      "на качелях",
+      "Кидс Диана Шоу",
+      "Diana",
+      "Диана",
+      "катаются",
+      "Kids Diana Show",
+      "on the swing"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "VLOG Развлекательный Центр ЕДЕМ НА КАЧЕЛИ Видео Для Детей Playground Fun video Kids Amusement Park",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M23S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "22469939",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-2coloF18As\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
