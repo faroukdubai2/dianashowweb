@@ -1,0 +1,109 @@
+{
+  "kind": "youtube#video",
+  "etag": "0ynOXlV0cgwhju-NJzBhAAWsiYM",
+  "id": "RlFb3AIq_Ug",
+  "snippet": {
+    "publishedAt": "2020-11-16T07:00:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana plays with new Kindi Kids Minis",
+    "description": "Diana and Roma play a game of hide and seek with the Kindi Kids Minis. This is a paid #ad for Kindi Kids from Moose Toys. Parents, the Kindi Kids animated show is available to watch on YouTube, here: https://bit.ly/3hZ0vY\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RlFb3AIq_Ug/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RlFb3AIq_Ug/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RlFb3AIq_Ug/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/RlFb3AIq_Ug/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/RlFb3AIq_Ug/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "roma and diana",
+      "cartoon",
+      "kindi kids",
+      "moose toys",
+      "childrens toys",
+      "dolls",
+      "kindergarten",
+      "family fun",
+      "cartoons",
+      "kindikids",
+      "kindy",
+      "jessicake",
+      "donatina",
+      "marsha mello",
+      "cartoons for kids",
+      "moose",
+      "toys",
+      "toy company",
+      "baby doll",
+      "doll",
+      "play dolls",
+      "kids play",
+      "pretend",
+      "kids toys",
+      "for girls",
+      "moose toys products",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana plays with new Kindi Kids Minis",
+      "description": "Diana and Roma play a game of hide and seek with the Kindi Kids Minis. This is a paid #ad for Kindi Kids from Moose Toys. Parents, the Kindi Kids animated show is available to watch on YouTube, here: https://bit.ly/3hZ0vY\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nhttps://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT6M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9812612",
+    "likeCount": "51616",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/RlFb3AIq_Ug\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
