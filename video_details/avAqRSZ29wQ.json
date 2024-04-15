@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#video",
+  "etag": "C-eWVWYJ7ySifeL9gFVh3pni4BQ",
+  "id": "avAqRSZ29wQ",
+  "snippet": {
+    "publishedAt": "2018-11-08T07:00:01Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Funny toy dog",
+    "description": "Roma did not want to play with Diana. Then the girl bought herself a new toy - a funny dog toy. Roma really liked the dog, he also wanted to play with her. The boy bought a lot of new toys. Children made friends and played together. But suddenly the dog toy disappeared somewhere ...\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\n\nДиана и смешная Собачка. Видео для детей Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/avAqRSZ29wQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/avAqRSZ29wQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/avAqRSZ29wQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/avAqRSZ29wQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/avAqRSZ29wQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "toy",
+      "dog",
+      "funny dog",
+      "dog toys",
+      "dog toy",
+      "toys",
+      "for kids",
+      "funny",
+      "kids video",
+      "kids toys",
+      "roma and diana",
+      "pretend play",
+      "diana",
+      "рома и диана",
+      "диана",
+      "для детей"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and Funny toy dog",
+      "description": "Roma did not want to play with Diana. Then the girl bought herself a new toy - a funny dog toy. Roma really liked the dog, he also wanted to play with her. The boy bought a lot of new toys. Children made friends and played together. But suddenly the dog toy disappeared somewhere ...\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\n\nДиана и смешная Собачка. Видео для детей Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "301830987",
+    "likeCount": "847852",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/avAqRSZ29wQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
