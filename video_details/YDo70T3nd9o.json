@@ -1,0 +1,106 @@
+{
+  "kind": "youtube#video",
+  "etag": "LStkY5VOrvBGW0w1mKM3EE8kvh8",
+  "id": "YDo70T3nd9o",
+  "snippet": {
+    "publishedAt": "2016-07-20T04:02:36Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Ёжик у нас во дворе, новые ночники Щенячий Патруль",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YDo70T3nd9o/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YDo70T3nd9o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YDo70T3nd9o/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YDo70T3nd9o/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/YDo70T3nd9o/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "игрушки",
+      "PAW Patrol",
+      "new toys",
+      "for kids",
+      "новые игрушки",
+      "PAW Patrol toys",
+      "toys minions",
+      "VLOG",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "unboxing videos",
+      "видео для детей",
+      "диана шоу",
+      "Patrol",
+      "PAW Patrol cartoon",
+      "Kids Diana Show",
+      "Diana",
+      "Диана",
+      "Kids Video",
+      "смотреть",
+      "новые Серии",
+      "ЁЖИК",
+      "смешные миньоны",
+      "светильники",
+      "hedgehog",
+      "paw patrol episodes"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Ёжик у нас во дворе, новые ночники Щенячий Патруль",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M25S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3225479",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/YDo70T3nd9o\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
