@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "Z9B0hUDDkE1hU_fDUYEhx3pc3C0",
+  "id": "o6ihKJOjp0g",
+  "snippet": {
+    "publishedAt": "2017-03-12T05:09:46Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ЛЕПИМ КОЛОБКИ из Кинетического Песка - Видео для Малышей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/o6ihKJOjp0g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/o6ihKJOjp0g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/o6ihKJOjp0g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/o6ihKJOjp0g/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/o6ihKJOjp0g/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "kids diana show",
+      "колобки",
+      "видео для детей",
+      "диана",
+      "кинетический песок",
+      "детский канал",
+      "игрушки",
+      "развивающее видео",
+      "kinetic sand",
+      "песок",
+      "распаковка",
+      "обзор игрушек",
+      "рома и диана"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ЛЕПИМ КОЛОБКИ из Кинетического Песка - Видео для Малышей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    }
+  },
+  "contentDetails": {
+    "duration": "PT4M35S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "489645",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/o6ihKJOjp0g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
