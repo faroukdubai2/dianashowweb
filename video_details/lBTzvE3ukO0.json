@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "zHu8JoOK1CU3SHb7RpWAcED5ygc",
+  "id": "lBTzvE3ukO0",
+  "snippet": {
+    "publishedAt": "2018-05-19T08:56:01Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Дом куклы Барби - Самая большая Игрушка Барби на Kids Diana Show / Barbie Doll House",
+    "description": "Дом куклы Барби - самая большая игрушка Барби, которую мы распаковали на канале Kids Diana Show! Мы распаковываем, складываем и играем с домом #Барби.\nThis is the biggest Barbie toy we've unboxed on Kids Diana Show, it's a Barbie house! We unbox, make and play with the Barbie house.\n\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh #dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lBTzvE3ukO0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lBTzvE3ukO0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lBTzvE3ukO0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/lBTzvE3ukO0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/lBTzvE3ukO0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "дом куклы барби",
+      "дом",
+      "куклы",
+      "куклы барби",
+      "кукольный дом",
+      "большая игрушка",
+      "игрушка",
+      "барби",
+      "new toys",
+      "barbie house",
+      "Barbie toy",
+      "Barbie Doll House",
+      "barbie",
+      "dollhouse",
+      "doll house",
+      "barbie doll",
+      "House",
+      "house toys",
+      "kids toys",
+      "barbie toys",
+      "рома и диана",
+      "диана",
+      "диана и рома",
+      "kids video",
+      "kids diana show",
+      "diana barbie"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Дом куклы Барби - Самая большая Игрушка Барби на Kids Diana Show / Barbie Doll House",
+      "description": "Дом куклы Барби - самая большая игрушка Барби, которую мы распаковали на канале Kids Diana Show! Мы распаковываем, складываем и играем с домом #Барби.\nThis is the biggest Barbie toy we've unboxed on Kids Diana Show, it's a Barbie house! We unbox, make and play with the Barbie house.\n\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh #dianabarbie Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M45S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "84032250",
+    "likeCount": "357237",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lBTzvE3ukO0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
