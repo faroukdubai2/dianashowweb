@@ -1,0 +1,107 @@
+{
+  "kind": "youtube#video",
+  "etag": "IhrADSXXKQZ7vuJC6eyKvxeXeQA",
+  "id": "3TPGK9-XhaQ",
+  "snippet": {
+    "publishedAt": "2016-08-19T08:39:02Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "У Дианы - НОВАЯ МАШИНА МИННИ МАУС и Микки Маус Сюрпризы Minnie Mouse Toys Сar",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3TPGK9-XhaQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3TPGK9-XhaQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3TPGK9-XhaQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3TPGK9-XhaQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Диана",
+      "новая машина",
+      "микки маус",
+      "минни маус",
+      "mickey mouse",
+      "minnie mouse",
+      "Клуб Микки Мауса",
+      "дисней",
+      "игрушки",
+      "disney",
+      "Сюрпризы",
+      "микки",
+      "микки маус клуб",
+      "minnie mouse toys",
+      "детский электромобиль",
+      "MINNIE CAR",
+      "car",
+      "toys",
+      "surprises",
+      "новая",
+      "Diana",
+      "Диана шоу",
+      "mickey mouse toys",
+      "minnie",
+      "Mouse",
+      "mickey",
+      "diana show",
+      "minnie mouse cartoon",
+      "электромобиль",
+      "Toys Сar",
+      "surprise toys",
+      "машина"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "У Дианы - НОВАЯ МАШИНА МИННИ МАУС и Микки Маус Сюрпризы Minnie Mouse Toys Сar",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT15M45S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "9932583",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/3TPGK9-XhaQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
