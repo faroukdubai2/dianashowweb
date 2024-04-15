@@ -1,0 +1,109 @@
+{
+  "kind": "youtube#video",
+  "etag": "Io8_rwq17IN322Yw0hdWdnSABro",
+  "id": "Gco4ph3IAPk",
+  "snippet": {
+    "publishedAt": "2016-10-05T17:07:26Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Магазин Кукол в Америке AMERICAN GIRL - мечта для девочек",
+    "description": "American Girl Выпускает культовых в Америке кукол American Girl, одежду и аксессуары для них, а также их маленьких хозяек. Покупая одну из кукол American Girl в стандартном комплекте одежды meet можно одновременно приобрести аналогичную одежду и аксессуары для ее хозяйки. Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Gco4ph3IAPk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Gco4ph3IAPk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Gco4ph3IAPk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Gco4ph3IAPk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "влог",
+      "магазин",
+      "кукол",
+      "American Girl",
+      "Куклы",
+      "Принцессы",
+      "Disney Princesses",
+      "play toy",
+      "doll toy",
+      "Princess Disney",
+      "игры для девочек",
+      "Diana",
+      "for kids",
+      "Princess",
+      "toys",
+      "for girls",
+      "for Girls Kids",
+      "Kids Diana Show",
+      "Диана",
+      "Диана шоу",
+      "american girl doll",
+      "american girl shop",
+      "для кукол",
+      "Америка",
+      "girl",
+      "Shop",
+      "american",
+      "doll",
+      "toy",
+      "disney",
+      "princesses",
+      "play",
+      "рома и диана",
+      "игрушки"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Магазин Кукол в Америке AMERICAN GIRL - мечта для девочек",
+      "description": "American Girl Выпускает культовых в Америке кукол American Girl, одежду и аксессуары для них, а также их маленьких хозяек. Покупая одну из кукол American Girl в стандартном комплекте одежды meet можно одновременно приобрести аналогичную одежду и аксессуары для ее хозяйки. Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2040723",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Gco4ph3IAPk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
