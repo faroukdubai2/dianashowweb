@@ -1,0 +1,98 @@
+{
+  "kind": "youtube#video",
+  "etag": "8DhIie1BTQ_nYOqG5UQif4ZWEvE",
+  "id": "s2FYJ3tVg5M",
+  "snippet": {
+    "publishedAt": "2018-10-15T06:00:03Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and New Rapunzel doll",
+    "description": "Kids pretend play with new toys. Diana has a new Rapunzel doll with a horse. Little girl plays with the horse, but her brother also wants to play. Then a boy pretended to be a doll, and Rapunzel fed the horse so that it grew to gigantic proportions.\nChildren also pretend play with children’s play houses.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/s2FYJ3tVg5M/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/s2FYJ3tVg5M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/s2FYJ3tVg5M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/s2FYJ3tVg5M/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/s2FYJ3tVg5M/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "doll",
+      "rapunzel",
+      "rapunzel doll",
+      "disney princess",
+      "princess rapunzel",
+      "toys",
+      "toy",
+      "for kids",
+      "dolls",
+      "kids toys",
+      "pretend play",
+      "kids",
+      "diana",
+      "диана",
+      "диана и рома",
+      "new",
+      "video for kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and New Rapunzel doll",
+      "description": "Kids pretend play with new toys. Diana has a new Rapunzel doll with a horse. Little girl plays with the horse, but her brother also wants to play. Then a boy pretended to be a doll, and Rapunzel fed the horse so that it grew to gigantic proportions.\nChildren also pretend play with children’s play houses.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "296063317",
+    "likeCount": "1069548",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/s2FYJ3tVg5M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
