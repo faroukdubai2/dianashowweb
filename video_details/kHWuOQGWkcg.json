@@ -1,0 +1,90 @@
+{
+  "kind": "youtube#video",
+  "etag": "zAkg6vvnPdA_TbWuij-ppbr1Qg8",
+  "id": "kHWuOQGWkcg",
+  "snippet": {
+    "publishedAt": "2020-01-25T07:00:04Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Dad are buying a dress",
+    "description": "Diana wants to wear a beautiful dress, but all the dresses do not suit her. Dad offers Diana to buy a new dress.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kHWuOQGWkcg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kHWuOQGWkcg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kHWuOQGWkcg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/kHWuOQGWkcg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/kHWuOQGWkcg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "dress",
+      "dress up",
+      "for girls",
+      "dresses",
+      "buying a dress",
+      "for kids",
+      "toys for kids",
+      "diana and dad",
+      "diana",
+      "kids diana show",
+      "kids video"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana and Dad are buying a dress",
+      "description": "Diana wants to wear a beautiful dress, but all the dresses do not suit her. Dad offers Diana to buy a new dress.\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "109099467",
+    "likeCount": "301409",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/kHWuOQGWkcg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
