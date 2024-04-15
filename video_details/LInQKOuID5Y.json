@@ -1,0 +1,101 @@
+{
+  "kind": "youtube#video",
+  "etag": "aWoU632sSmiQLSHGvtkBwCuH_Ic",
+  "id": "LInQKOuID5Y",
+  "snippet": {
+    "publishedAt": "2018-05-31T06:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана работает Моделью, тушит пожар, выступает на сцене в Городе профессий для детей",
+    "description": "Диана работает Моделью, тушит пожар, дает интервью, выступает на Сцене в Городе профессий для детей - Кидландия http://www.kidlandia.ua Детский Развлекательный Цент Kidlandia в Киеве - это настоящая страна для детей. Здесь дети играют и веселятся, получая знания и навыки, которые пригодятся им в реальной жизни. В Кидландия Диана познакомилась с различными профессиями, зарабатывала игровые деньги и тратила их на развлечения и сувениры. Это самый масштабный детский #городпрофессий в Украине. Рома и Диана очень полюбили этот Парк профессий для детей! Развлечения для Детей в Киеве. \n\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/LInQKOuID5Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/LInQKOuID5Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/LInQKOuID5Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/LInQKOuID5Y/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/LInQKOuID5Y/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "работает Моделью",
+      "тушит пожар",
+      "выступает на сцене",
+      "в городе профессий",
+      "город профессий",
+      "кидландия",
+      "в киеве",
+      "Детский Развлекательный Цент",
+      "Kidlandia",
+      "рома и диана",
+      "диана и рома",
+      "kids diana show",
+      "kids video",
+      "for kids",
+      "video for kids",
+      "videos for kids",
+      "for children",
+      "видео для детей",
+      "Kids"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана работает Моделью, тушит пожар, выступает на сцене в Городе профессий для детей",
+      "description": "Диана работает Моделью, тушит пожар, дает интервью, выступает на Сцене в Городе профессий для детей - Кидландия http://www.kidlandia.ua Детский Развлекательный Цент Kidlandia в Киеве - это настоящая страна для детей. Здесь дети играют и веселятся, получая знания и навыки, которые пригодятся им в реальной жизни. В Кидландия Диана познакомилась с различными профессиями, зарабатывала игровые деньги и тратила их на развлечения и сувениры. Это самый масштабный детский #городпрофессий в Украине. Рома и Диана очень полюбили этот Парк профессий для детей! Развлечения для Детей в Киеве. \n\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "19414871",
+    "likeCount": "47847",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/LInQKOuID5Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
