@@ -1,0 +1,111 @@
+{
+  "kind": "youtube#video",
+  "etag": "0DDfVSqEY7fAqYWR12RxEAL9CWs",
+  "id": "XRbSLS00U2I",
+  "snippet": {
+    "publishedAt": "2021-02-24T07:00:05Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana's Stories about Hair Accessories and Toys that She helped to create",
+    "description": "Parents, you can check out Love, Diana at Claire's here: https://bit.ly/2I2UwEK\nLove, Diana at Walmart: https://bit.ly/3iVGqlU\nLove, Diana at Target: http://bit.ly/3aSRTzA​\n2 in 1 Taco Truck Playset: http://bit.ly/3nDROnU​​\nFashion Fabulous Surprise Collectible Dolls: http://bit.ly/3i36ZWA​​\nLove, Diana at Big W in Australia: https://bit.ly/331TMXI​\nDiana's Stories about #HairAccessories and #Toys that She helped to create  \n#hairclips\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/​\nROMA Instagram https://www.instagram.com/kidsromashow/​\n​ #DianaandRoma #LoveDiana Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XRbSLS00U2I/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XRbSLS00U2I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XRbSLS00U2I/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/XRbSLS00U2I/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/XRbSLS00U2I/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Kids diana show",
+      "accessories",
+      "create",
+      "dian's toys",
+      "diana",
+      "diana and roma",
+      "diana y roma",
+      "dianas stories",
+      "easy hairstyles",
+      "hair",
+      "hair accessories",
+      "hair bow tutorial",
+      "hair bows",
+      "hair clips",
+      "hairclips",
+      "hairstyle",
+      "hairstyles",
+      "kids",
+      "kids videos",
+      "love diana",
+      "love diana accessories",
+      "pretend play",
+      "roma and diana",
+      "stories",
+      "stories for kids",
+      "toys",
+      "trendy hair",
+      "tutorial",
+      "диана",
+      "#LoveDiana",
+      "diana doll"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana's Stories about Hair Accessories and Toys that She helped to create",
+      "description": "Parents, you can check out Love, Diana at Claire's here: https://bit.ly/2I2UwEK\nLove, Diana at Walmart: https://bit.ly/3iVGqlU\nLove, Diana at Target: http://bit.ly/3aSRTzA​\n2 in 1 Taco Truck Playset: http://bit.ly/3nDROnU​​\nFashion Fabulous Surprise Collectible Dolls: http://bit.ly/3i36ZWA​​\nLove, Diana at Big W in Australia: https://bit.ly/331TMXI​\nDiana's Stories about #HairAccessories and #Toys that She helped to create  \n#hairclips\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/​\nROMA Instagram https://www.instagram.com/kidsromashow/​\n​ #DianaandRoma #LoveDiana Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT16M47S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "14617428",
+    "likeCount": "49779",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/XRbSLS00U2I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
