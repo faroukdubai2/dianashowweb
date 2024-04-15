@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#video",
+  "etag": "nOk_lzVOtn1k5qbdoBqT2FeirPo",
+  "id": "5jK8cwxMIBQ",
+  "snippet": {
+    "publishedAt": "2019-02-06T07:01:41Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Pretend Play with Toy Sewing machine",
+    "description": "Diana soiled her dress. But she has a toy sewing machine. A little girl sewed a new dress. Roma tore his favorite T-shirt. Diana promises to sew for brother a new T-shirt. But the sewing machine sews only dresses! ... Kids pretend play dress up.\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5jK8cwxMIBQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5jK8cwxMIBQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5jK8cwxMIBQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/5jK8cwxMIBQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/5jK8cwxMIBQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana",
+      "pretend play",
+      "kids toys",
+      "toys",
+      "toy sewing machine",
+      "kids pretend play",
+      "kids playing",
+      "toy",
+      "sewing machine",
+      "for kids",
+      "diana and roma",
+      "dress up",
+      "диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Diana Pretend Play with Toy Sewing machine",
+      "description": "Diana soiled her dress. But she has a toy sewing machine. A little girl sewed a new dress. Roma tore his favorite T-shirt. Diana promises to sew for brother a new T-shirt. But the sewing machine sews only dresses! ... Kids pretend play dress up.\nDiana's INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M45S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "123994831",
+    "likeCount": "376789",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/5jK8cwxMIBQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
