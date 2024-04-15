@@ -1,0 +1,101 @@
+{
+  "kind": "youtube#video",
+  "etag": "yfpDbp1CD-Xz_7qpPIaUBwykpF4",
+  "id": "MgMuNLx-IDk",
+  "snippet": {
+    "publishedAt": "2016-01-16T17:08:42Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка Игрушек из Хеппи Мил МакДональдс Снупи и Мелочь Пузатая | Happy Meal The Peanuts Movie",
+    "description": "Игрушки Снупи и Мелочь Пузатая Хеппи Мил МакДональдс Январь 2016 \nHappy Meal The Peanuts Movie \nhttps://youtu.be/MgMuNLx-IDk Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MgMuNLx-IDk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MgMuNLx-IDk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MgMuNLx-IDk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/MgMuNLx-IDk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "маленькая девочка раскрывает сюрпризы",
+      "развивающие мультики",
+      "детский канал",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "Диана Шоу",
+      "Diana Show",
+      "обзор игрушек",
+      "девочка играется игрушками",
+      "VLOG",
+      "маленькая девочка открывает сюрпризы",
+      "распаковка",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "reality show online",
+      "unboxing videos",
+      "Снупи и Мелочь Пузатая",
+      "Хеппи Мил МакДональдс",
+      "Январь 2016",
+      "Happy Meal",
+      "The Peanuts Movie"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка Игрушек из Хеппи Мил МакДональдс Снупи и Мелочь Пузатая | Happy Meal The Peanuts Movie",
+      "description": "Игрушки Снупи и Мелочь Пузатая Хеппи Мил МакДональдс Январь 2016 \nHappy Meal The Peanuts Movie \nhttps://youtu.be/MgMuNLx-IDk Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "534985",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/MgMuNLx-IDk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
