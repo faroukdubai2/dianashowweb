@@ -1,0 +1,108 @@
+{
+  "kind": "youtube#video",
+  "etag": "rdONvF7HJKjsUW4v4_ZLHGqpSVI",
+  "id": "fC-UYafOUCE",
+  "snippet": {
+    "publishedAt": "2016-08-27T06:09:49Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Сюрпризы для Дианы Классный Батут МИККИ МАУС и игрушки Mickey Mouse Toys",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fC-UYafOUCE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fC-UYafOUCE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fC-UYafOUCE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fC-UYafOUCE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "микки маус",
+      "минни маус",
+      "mickey mouse",
+      "minnie mouse",
+      "Клуб Микки Мауса",
+      "дисней",
+      "minnie",
+      "Mouse",
+      "mickey",
+      "disney",
+      "toys",
+      "игрушки",
+      "Сюрпризы",
+      "микки",
+      "микки маус клуб",
+      "minnie mouse toys",
+      "surprises",
+      "mickey mouse toys",
+      "Диана",
+      "Diana",
+      "diana show",
+      "minnie mouse cartoon",
+      "surprise toys",
+      "Диана шоу",
+      "новый",
+      "видео для детей",
+      "батут",
+      "Trampoline",
+      "kids",
+      "детский батут",
+      "Батут для Детей",
+      "Рома Шоу",
+      "игрушки микки маус"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Сюрпризы для Дианы Классный Батут МИККИ МАУС и игрушки Mickey Mouse Toys",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT14M33S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3801054",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/fC-UYafOUCE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
