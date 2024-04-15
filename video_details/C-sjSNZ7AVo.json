@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#video",
+  "etag": "I1XSkXwGHsFvloHG7P5eN9zyrK4",
+  "id": "C-sjSNZ7AVo",
+  "snippet": {
+    "publishedAt": "2022-04-26T06:02:40Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana is preparing a School Project | Helping Each Other",
+    "description": "Diana needs to prepare a school project. But someone is constantly distracting her. Diana helps Oliver, Roma, mom and dad and doesn't have time to finish her school assignment. In the evening the whole family gathered to help Diana. Useful video for children about how important it is to help each other!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\nFacebook https://www.facebook.com/KidsDianaShowOfficial/\n#DianaandRoma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/C-sjSNZ7AVo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/C-sjSNZ7AVo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/C-sjSNZ7AVo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/C-sjSNZ7AVo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/C-sjSNZ7AVo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "school",
+      "school stories",
+      "school project",
+      "storytime",
+      "helping each other",
+      "helping others",
+      "diana and roma english",
+      "family fun",
+      "stories for kids"
+    ],
+    "categoryId": "15",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana is preparing a School Project | Helping Each Other",
+      "description": "Diana needs to prepare a school project. But someone is constantly distracting her. Diana helps Oliver, Roma, mom and dad and doesn't have time to finish her school assignment. In the evening the whole family gathered to help Diana. Useful video for children about how important it is to help each other!\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nInstagram https://www.instagram.com/kidsdianashow/\nFacebook https://www.facebook.com/KidsDianaShowOfficial/\n#DianaandRoma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M30S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "22304705",
+    "likeCount": "47349",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/C-sjSNZ7AVo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
