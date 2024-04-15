@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "shAF9woxe_ahoIEKHZgcjgKs_y4",
+  "id": "ExjBnfuPHBw",
+  "snippet": {
+    "publishedAt": "2018-11-24T07:03:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Toys from Goldfish",
+    "description": "Diana saw a Goldfish and asked her for new toys: play house and a toy car. Brother Roma also wanted toys and asked them from the Golden Fish. But when the children began to quarrel, Gold fish took all the toys back ... fun video for kids\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nДиана и игрушки от Золотой рыбки Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ExjBnfuPHBw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ExjBnfuPHBw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ExjBnfuPHBw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ExjBnfuPHBw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ExjBnfuPHBw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "toys",
+      "kids toys",
+      "toy",
+      "for kids",
+      "fun",
+      "kids",
+      "toys play",
+      "kids play",
+      "toys for kids",
+      "goldfish",
+      "diana",
+      "рома и диана",
+      "диана",
+      "video for kids",
+      "игрушки"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana and Toys from Goldfish",
+      "description": "Diana saw a Goldfish and asked her for new toys: play house and a toy car. Brother Roma also wanted toys and asked them from the Golden Fish. But when the children began to quarrel, Gold fish took all the toys back ... fun video for kids\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nДиана и игрушки от Золотой рыбки Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M6S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "63189830",
+    "likeCount": "124242",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ExjBnfuPHBw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
