@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "MP02UkgXoSc-OSf8m_rkis09FVw",
+  "id": "Jqg2gLT8_fA",
+  "snippet": {
+    "publishedAt": "2018-04-13T06:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ПОСЫЛКА - СЮРПРИЗ от ZetBox! Супер Подарки для Мамы и Дианы!",
+    "description": "Cервис Подарков ZetBox прислал нам посылку, в которой были супер подарки для Дианы и ее Мамы! В этом видео мы распакуем наши Сюрприз-Боксы и покажем вам Что там внутри?! Сайт подарков ZetBox: http://zetbox.com.ua/\nGreat Gifts for Mom and Diana! Open Surprises from #ZetBox! \nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nСупер #посылка, Рома и Диана видео для детей.\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Jqg2gLT8_fA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Jqg2gLT8_fA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Jqg2gLT8_fA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Jqg2gLT8_fA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Jqg2gLT8_fA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "посылка",
+      "сюрприз",
+      "ZetBox",
+      "супер",
+      "подарки",
+      "для мамы",
+      "для дианы",
+      "диана",
+      "рома и диана",
+      "видео для детей",
+      "video for kids",
+      "diana",
+      "kids video",
+      "kids toys",
+      "Great Gifts",
+      "Gifts",
+      "Open Surprises",
+      "surprise toys",
+      "lol surprise",
+      "surprise",
+      "for kids",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ПОСЫЛКА - СЮРПРИЗ от ZetBox! Супер Подарки для Мамы и Дианы!",
+      "description": "Cервис Подарков ZetBox прислал нам посылку, в которой были супер подарки для Дианы и ее Мамы! В этом видео мы распакуем наши Сюрприз-Боксы и покажем вам Что там внутри?! Сайт подарков ZetBox: http://zetbox.com.ua/\nGreat Gifts for Mom and Diana! Open Surprises from #ZetBox! \nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nСупер #посылка, Рома и Диана видео для детей.\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "4806315",
+    "likeCount": "23109",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Jqg2gLT8_fA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
