@@ -1,0 +1,105 @@
+{
+  "kind": "youtube#video",
+  "etag": "rXHi4naqzHiNqgGQ5W9hvpRdkTk",
+  "id": "2KGGgRSDKdI",
+  "snippet": {
+    "publishedAt": "2016-08-31T06:36:34Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "VLOG Диана в Парке Развлечений \"7 Чудес Детства\" amusement park for kids",
+    "description": "Диана в Парке Развлечений \"7 Чудес Детства\" amusement park for kids Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2KGGgRSDKdI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2KGGgRSDKdI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2KGGgRSDKdI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2KGGgRSDKdI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "amusement park",
+      "Диана",
+      "Diana",
+      "Kids Diana Show",
+      "Парк Развлечений",
+      "Кидс Диана Шоу",
+      "Kids Playroom",
+      "7 чудес детсва",
+      "детская площадка",
+      "в стране чудес",
+      "в стране",
+      "диана шоу",
+      "детская игровая комната",
+      "family park",
+      "for children",
+      "Kids",
+      "Play",
+      "playroom",
+      "for kids",
+      "toys",
+      "детский влог",
+      "детская комната",
+      "Indoor",
+      "Playground",
+      "видео для детей",
+      "развлечения детям",
+      "VLOG",
+      "для детей",
+      "Entertainment for Kids",
+      "Park Kids"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "VLOG Диана в Парке Развлечений \"7 Чудес Детства\" amusement park for kids",
+      "description": "Диана в Парке Развлечений \"7 Чудес Детства\" amusement park for kids Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT25M25S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "19926490",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/2KGGgRSDKdI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
