@@ -1,0 +1,119 @@
+{
+  "kind": "youtube#video",
+  "etag": "-SEVNPH-LHO-Y8Qb-6cTmwfINVQ",
+  "id": "AHSD5_3qp44",
+  "snippet": {
+    "publishedAt": "2016-07-10T06:47:26Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ИГРАЕМ В МАГАЗИН Супермаркет и Касса KEENWAY Игрушки Для Детей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/AHSD5_3qp44/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/AHSD5_3qp44/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/AHSD5_3qp44/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/AHSD5_3qp44/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/AHSD5_3qp44/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "ИГРАЕМ",
+      "игры",
+      "В МАГАЗИН",
+      "Супермаркет",
+      "Касса",
+      "KEENWAY",
+      "Игрушки Для Детей",
+      "Supermarket",
+      "Shopping",
+      "fun",
+      "развивающие игры",
+      "для детей",
+      "овощи",
+      "фрукты",
+      "детская касса",
+      "game",
+      "shop",
+      "игровой набор",
+      "кассовый аппарат",
+      "игры для детей",
+      "развивающие игрушки",
+      "fruits",
+      "vegetables",
+      "Educational game",
+      "детское видео",
+      "Kids Diana Show",
+      "Диана",
+      "видео для детей",
+      "игрушки",
+      "Кидс Диана Шоу",
+      "распаковка",
+      "VLOG",
+      "обзор игрушек",
+      "for children",
+      "Diana",
+      "online",
+      "for kids",
+      "Toys Review",
+      "unboxing videos"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ИГРАЕМ В МАГАЗИН Супермаркет и Касса KEENWAY Игрушки Для Детей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT17M50S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "14812829",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/AHSD5_3qp44\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
