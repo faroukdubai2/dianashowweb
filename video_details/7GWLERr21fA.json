@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "SzitW1b0GqUj8ANoKf4uISARM1g",
+  "id": "7GWLERr21fA",
+  "snippet": {
+    "publishedAt": "2018-06-15T06:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Roma and Diana plays at the 3D Art in Paradise MUSEUM, Fun for kids activities",
+    "description": "Roma and Diana fun plays at the MUSEUM in Bangkok. Art in Paradise - is great fun for kids and families to spend a few hilarious hours. The new 3D Art in Paradise in the Bangkok is a shiny and spotless 2 storey gallery packed with superbly executed paintings in which visitors are invited to be part of dozens of scenes. The children had fun playing this MUSEUM - 3D Art in Paradise \nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7GWLERr21fA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7GWLERr21fA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7GWLERr21fA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7GWLERr21fA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7GWLERr21fA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Roma and Diana",
+      "Art in Paradise",
+      "pretend play",
+      "kids video",
+      "play",
+      "family fun",
+      "kids playing",
+      "kids pretend play",
+      "kids",
+      "children",
+      "video for kids",
+      "fun",
+      "children playing",
+      "рома и диана",
+      "kids diana show",
+      "kids videos",
+      "fun for kids activities",
+      "fun for kids",
+      "for children",
+      "for kid",
+      "children's museum"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Roma and Diana plays at the 3D Art in Paradise MUSEUM, Fun for kids activities",
+      "description": "Roma and Diana fun plays at the MUSEUM in Bangkok. Art in Paradise - is great fun for kids and families to spend a few hilarious hours. The new 3D Art in Paradise in the Bangkok is a shiny and spotless 2 storey gallery packed with superbly executed paintings in which visitors are invited to be part of dozens of scenes. The children had fun playing this MUSEUM - 3D Art in Paradise \nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M34S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "79280593",
+    "likeCount": "97593",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7GWLERr21fA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
