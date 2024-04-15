@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "EWKWbEe6elOWmZLXnrj-Je_JP58",
+  "id": "NTLgBVcfHyA",
+  "snippet": {
+    "publishedAt": "2018-01-22T07:03:17Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana - Little Mommy for Baby doll",
+    "description": "Today a little girl Diana, like Mama for her dolls. Diana takes care of her children: feed, clothe and vіvodit for a walk, video for kids\n\nДиана как МАМА, Играем в Куклы Пупсики видео для детей\n\nSubscribe to our channels:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NTLgBVcfHyA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NTLgBVcfHyA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NTLgBVcfHyA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/NTLgBVcfHyA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/NTLgBVcfHyA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Diana",
+      "диана",
+      "как мама",
+      "куклы",
+      "куклы пупсики",
+      "рома и диана",
+      "видео для детей",
+      "little mommy",
+      "baby doll",
+      "kids toys",
+      "play toys",
+      "play dolls",
+      "for kids",
+      "kids",
+      "video for kids",
+      "kids video"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana - Little Mommy for Baby doll",
+      "description": "Today a little girl Diana, like Mama for her dolls. Diana takes care of her children: feed, clothe and vіvodit for a walk, video for kids\n\nДиана как МАМА, Играем в Куклы Пупсики видео для детей\n\nSubscribe to our channels:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "131023188",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NTLgBVcfHyA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
