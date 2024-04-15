@@ -1,0 +1,108 @@
+{
+  "kind": "youtube#video",
+  "etag": "VjSuyTbqBqq0mvGpYSCfFTUb6JE",
+  "id": "fPpbVPWm-VE",
+  "snippet": {
+    "publishedAt": "2016-01-29T06:21:49Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "✿ Играем на Детской Площадке Катаемся с Горок Playground Fun Play Place for Kids playroom",
+    "description": "Всем Салют! Диана с семьей отдыхают на Кипре. Сегодня они нашли детскую площадку с горками, домиком и качелями. Она находится недалеко от виллы где семья Дианы поселилась. Теперь Диана будет гулять здесь каждый день. Диана очень любит детские площадки и горки https://www.youtube.com/watch?v=fPpbVPWm-VE\nPlayground Fun Play Place for Kids playroom Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fPpbVPWm-VE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fPpbVPWm-VE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fPpbVPWm-VE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fPpbVPWm-VE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "маленькая девочка раскрывает сюрпризы",
+      "видео для детей",
+      "Диана Шоу",
+      "Diana Show",
+      "VLOG",
+      "for kids",
+      "plac zabaw",
+      "playground",
+      "indoor",
+      "play centre",
+      "balls",
+      "playground with balls",
+      "ball",
+      "Plastic Ball",
+      "games room",
+      "Playroom",
+      "indoor playground",
+      "playground fun",
+      "playground with ball",
+      "plastikowe kulki",
+      "plastikowe piłeczki",
+      "piłeczki w basenie",
+      "Spielplatz",
+      "操場",
+      "遊び場",
+      "ملعب",
+      "детская площадка",
+      "sân chơi",
+      "tempat bermain",
+      "สนามเด็กเล่น",
+      "Cour de récréation",
+      "patio de recreo",
+      "운동장",
+      "kiddy playground"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "✿ Играем на Детской Площадке Катаемся с Горок Playground Fun Play Place for Kids playroom",
+      "description": "Всем Салют! Диана с семьей отдыхают на Кипре. Сегодня они нашли детскую площадку с горками, домиком и качелями. Она находится недалеко от виллы где семья Дианы поселилась. Теперь Диана будет гулять здесь каждый день. Диана очень любит детские площадки и горки https://www.youtube.com/watch?v=fPpbVPWm-VE\nPlayground Fun Play Place for Kids playroom Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M4S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "327965",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/fPpbVPWm-VE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
