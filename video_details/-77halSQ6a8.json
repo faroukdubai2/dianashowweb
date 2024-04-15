@@ -1,0 +1,126 @@
+{
+  "kind": "youtube#video",
+  "etag": "0RdW08IcpDL8NWNZA5E8dC8Bzu0",
+  "id": "-77halSQ6a8",
+  "snippet": {
+    "publishedAt": "2016-07-28T05:33:45Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка игрушки Волшебная Русалочка UNBOXING NEW TOY Mermaid doll",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-77halSQ6a8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-77halSQ6a8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-77halSQ6a8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-77halSQ6a8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-77halSQ6a8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "русалочка",
+      "марина",
+      "русалочки",
+      "игрушки",
+      "новые",
+      "для девочек",
+      "Magic",
+      "mermaid",
+      "Magical Mermaid",
+      "Water Wonderland",
+      "Robo Toys",
+      "mermaids",
+      "swimming",
+      "русалочка кукла",
+      "аквариум",
+      "aquarium",
+      "игрушка робот",
+      "toy for girls",
+      "Aquarium",
+      "Marina",
+      "mermaid doll",
+      "in the water",
+      "куклы",
+      "русалки",
+      "игры для девочек",
+      "new toys",
+      "for girls",
+      "swims",
+      "pool",
+      "русалка",
+      "плавает",
+      "в воде",
+      "в бассейне",
+      "диана",
+      "диана шоу",
+      "girls",
+      "diana",
+      "unboxing",
+      "kids diana show",
+      "распаковка",
+      "vlog",
+      "обзор игрушек",
+      "видео для детей",
+      "волшебная",
+      "кукла",
+      "робот"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка игрушки Волшебная Русалочка UNBOXING NEW TOY Mermaid doll",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2525199",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-77halSQ6a8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
