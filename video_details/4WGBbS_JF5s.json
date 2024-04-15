@@ -1,0 +1,116 @@
+{
+  "kind": "youtube#video",
+  "etag": "0NEVe__Ka2eUS_vm2YMRZKc-pQ8",
+  "id": "4WGBbS_JF5s",
+  "snippet": {
+    "publishedAt": "2016-07-16T04:19:43Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Распаковка игрушки ЗАМОК ПРИНЦЕССЫ Keenway Для Детей UNBOXING toys Disney Princess Castle",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4WGBbS_JF5s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4WGBbS_JF5s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4WGBbS_JF5s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4WGBbS_JF5s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "волшебный",
+      "Замок",
+      "принцессы",
+      "Magic",
+      "Castle",
+      "Princess",
+      "Fantasy Palace",
+      "игры для девочек",
+      "games for Girls",
+      "Принцесса",
+      "Диана",
+      "for Kids",
+      "распаковка",
+      "for children",
+      "for kids",
+      "замок принцессы",
+      "castle Princess",
+      "unboxing videos",
+      "видео для детей",
+      "video for kids",
+      "Диана Шоу",
+      "для девочек",
+      "games",
+      "for Girls",
+      "канал принцессы",
+      "принцессы диснея",
+      "Toys",
+      "for girls",
+      "Disney",
+      "Кукольный замок",
+      "игровой набор",
+      "Keenway",
+      "puppet castle",
+      "куклы",
+      "игры для девочеки",
+      "Diana Show",
+      "дворец",
+      "кукольный",
+      "Дом",
+      "Для Детей",
+      "Dollhouse"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Распаковка игрушки ЗАМОК ПРИНЦЕССЫ Keenway Для Детей UNBOXING toys Disney Princess Castle",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "2467491",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/4WGBbS_JF5s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
