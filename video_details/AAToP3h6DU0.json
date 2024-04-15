@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#video",
+  "etag": "dHZTBp4ljtzlJcX_Guwo_EPVf3A",
+  "id": "AAToP3h6DU0",
+  "snippet": {
+    "publishedAt": "2015-08-24T00:00:35Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "✿ Танцуем на дискотеке Катаемся на качеле Гуляем в колясочке с Ромой/ Kids on swing, Dance on Dicso",
+    "description": "Вечерами на территории базы всегда проходит дискотека для детей, Диана и Рома любят заходить сюда и немножко побегать, а потом едут гулять сидя в одной коляске вдвоем :) Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/AAToP3h6DU0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/AAToP3h6DU0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/AAToP3h6DU0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/AAToP3h6DU0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/AAToP3h6DU0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "✿ Танцуем на дискотеке Катаемся на качеле Гуляем в колясочке с Ромой/ Kids on swing, Dance on Dicso",
+      "description": "Вечерами на территории базы всегда проходит дискотека для детей, Диана и Рома любят заходить сюда и немножко побегать, а потом едут гулять сидя в одной коляске вдвоем :) Диана Шоу / Diana Show   https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw\n\nБольшое спасибо, что смотрите мой канал! Thanks for watching my channel\nЯ стараюсь выгружать каждый день новые видео! Every day new videos on my channel\n\nЕсли Вам нарвится поставьте пожалуйста лайк, комментируйте :) ПОДПИШИТЕСЬ :) \nLike, Comment, Subscribe! \n https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw?sub_confirmation=1 \n\nКанал моего братика Ромы:\nСhannel of my brother Roma: \nhttps://www.youtube.com/channel/UCx790OVgpTC1UVBQIqu3gnQ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT3M54S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "39819",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/AAToP3h6DU0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
