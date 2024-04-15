@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#video",
+  "etag": "jUgcVSxe9sdU4NOnUqpZpAy3Ggc",
+  "id": "O_7p40boFK4",
+  "snippet": {
+    "publishedAt": "2018-04-22T06:00:20Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ПОСЫЛКА - СЮРПРИЗ от ZetBox! Подарки для Папы, Вкусняшки - для Дианы!",
+    "description": "Мы распаковали еще не все коробки с подарками от ZetBox. В этом видео Диана распакует Сюрприз Бокс для Папы и Для всех. Что же там внутри?! Сайт подарков ZetBox: http://zetbox.com.ua/\nCool presents for Dad and family. Open Surprises from #ZetBox! Gift ideas\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/O_7p40boFK4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/O_7p40boFK4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/O_7p40boFK4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/O_7p40boFK4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/O_7p40boFK4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "посылка",
+      "сюрприз",
+      "ZetBox",
+      "супер",
+      "подарки",
+      "для папы",
+      "для всех",
+      "распаковка",
+      "сюрприз бокс",
+      "diana",
+      "Cool presents",
+      "Open Surprises",
+      "kids toys",
+      "Gifts",
+      "gift ideas",
+      "gifts",
+      "gift",
+      "opening presents",
+      "presents",
+      "surprise toys",
+      "surprise",
+      "opening gifts",
+      "for kids",
+      "рома и диана",
+      "видео для детей",
+      "video for kids",
+      "kids video",
+      "kids",
+      "toys",
+      "диана",
+      "Kids Diana Show",
+      "вкусняшки"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ПОСЫЛКА - СЮРПРИЗ от ZetBox! Подарки для Папы, Вкусняшки - для Дианы!",
+      "description": "Мы распаковали еще не все коробки с подарками от ZetBox. В этом видео Диана распакует Сюрприз Бокс для Папы и Для всех. Что же там внутри?! Сайт подарков ZetBox: http://zetbox.com.ua/\nCool presents for Dad and family. Open Surprises from #ZetBox! Gift ideas\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT5M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1187034",
+    "likeCount": "4105",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/O_7p40boFK4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
