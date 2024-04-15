@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#video",
+  "etag": "AFEktB-YDD98-q8E49bX7HEFcrI",
+  "id": "PcZ8llZcBSQ",
+  "snippet": {
+    "publishedAt": "2016-06-15T07:59:24Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана и Рома пробуют ВАРЕНЬЕ Кто Угадает Вкус? День Варенья на Диана Шоу Jam Challenge",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PcZ8llZcBSQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PcZ8llZcBSQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PcZ8llZcBSQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/PcZ8llZcBSQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/PcZ8llZcBSQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "челлендж",
+      "варенье",
+      "jam",
+      "Challenge for kids",
+      "Вкусный Челлендж",
+      "вкусное",
+      "вкусный",
+      "вызов",
+      "вызов принят",
+      "A tasty",
+      "challenger",
+      "игра",
+      "Челленджи",
+      "челлендж для детей",
+      "угадай вкус",
+      "guess taste",
+      "Children's Challenge",
+      "for kids",
+      "for children",
+      "влог",
+      "vlog",
+      "челендж",
+      "Джем",
+      "маша медведь",
+      "для детей",
+      "Diana",
+      "Диана",
+      "Диана Шоу",
+      "diana show",
+      "день варенья",
+      "сладкая жизнь",
+      "Сладкий",
+      "пробуем",
+      "сладости",
+      "вкусняшка",
+      "вкус",
+      "рома",
+      "челленджер"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана и Рома пробуют ВАРЕНЬЕ Кто Угадает Вкус? День Варенья на Диана Шоу Jam Challenge",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M37S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "644968",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/PcZ8llZcBSQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Food",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
