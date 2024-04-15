@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#video",
+  "etag": "qP3d7T2LnRPy5iwWo9wQMkBuuu4",
+  "id": "DccYzZV9Dsk",
+  "snippet": {
+    "publishedAt": "2018-06-25T06:00:00Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana pretend play Professions for kids, Story in the Children's museum",
+    "description": "Diana pretend play Professions for kids. Great Indoor Play Area with lots of Children Activities and fun kids toys! Diana's family had fun playing with learning toys and pretend food. Great Indoor Play Center for family fun learning experiences for children! Fun Kids Video for children who loves learning and playing with toys at the same time!\nДиана играет в Профессии для детей\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DccYzZV9Dsk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DccYzZV9Dsk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DccYzZV9Dsk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/DccYzZV9Dsk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/DccYzZV9Dsk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "pretend play",
+      "Professions",
+      "professions for kids",
+      "toys",
+      "for kids",
+      "kids toys",
+      "kids story",
+      "stories for kids",
+      "childrens museum",
+      "family fun",
+      "museum",
+      "food toys",
+      "kids playtime",
+      "kids",
+      "children activities",
+      "kids video",
+      "video for kids",
+      "рома и диана",
+      "Diana",
+      "kids diana show",
+      "диана"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana pretend play Professions for kids, Story in the Children's museum",
+      "description": "Diana pretend play Professions for kids. Great Indoor Play Area with lots of Children Activities and fun kids toys! Diana's family had fun playing with learning toys and pretend food. Great Indoor Play Center for family fun learning experiences for children! Fun Kids Video for children who loves learning and playing with toys at the same time!\nДиана играет в Профессии для детей\nInstagram Diana: https://www.instagram.com/kidsdianashow/\nSubscribe:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT8M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "98543994",
+    "likeCount": "251476",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/DccYzZV9Dsk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
