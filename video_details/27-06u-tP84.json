@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#video",
+  "etag": "6PrfhzaH5LV5n4bC1jskhbnjwxk",
+  "id": "27-06u-tP84",
+  "snippet": {
+    "publishedAt": "2023-12-10T09:29:10Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma play Escape Games | 1 Hour Video",
+    "description": "Collection of the Best Videos of Diana and Roma about Escape Rooms and other Escape games for kids and parents!\n\n0:00:00 Hogwarts Escape Room Adventure\n0:05:57 Escape Room Challenge\n0:11:16 Inside the Magic Cube Challenge\n0:17:37 Diana searches for missing Oliver\n0:22:23 Oliver and Roma help Diana escape from the trap cube\n0:28:02 Diana and Roma search for Oliver in the basement\n0:33:20 Diana and Oliver got inside Busyboard\n0:37:46 Diana and Roma help Oliver escape from the maze\n0:46:19 Halloween Escape Room Adventure\n0:53:28 Mysterious Maze Challenge\n0:58:00 100 Mystery Buttons But Only One Lets You Escape\n1:02:06 Pop It Escape Rooms Challenge\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/27-06u-tP84/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/27-06u-tP84/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/27-06u-tP84/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/27-06u-tP84/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/27-06u-tP84/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "cartoon",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "diana",
+      "roma",
+      "oliver",
+      "diana and roma english",
+      "kids diana show",
+      "Escape Games",
+      "escape games",
+      "escape room",
+      "escape game",
+      "the escape game",
+      "escape"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana and Roma play Escape Games | 1 Hour Video",
+      "description": "Collection of the Best Videos of Diana and Roma about Escape Rooms and other Escape games for kids and parents!\n\n0:00:00 Hogwarts Escape Room Adventure\n0:05:57 Escape Room Challenge\n0:11:16 Inside the Magic Cube Challenge\n0:17:37 Diana searches for missing Oliver\n0:22:23 Oliver and Roma help Diana escape from the trap cube\n0:28:02 Diana and Roma search for Oliver in the basement\n0:33:20 Diana and Oliver got inside Busyboard\n0:37:46 Diana and Roma help Oliver escape from the maze\n0:46:19 Halloween Escape Room Adventure\n0:53:28 Mysterious Maze Challenge\n0:58:00 100 Mystery Buttons But Only One Lets You Escape\n1:02:06 Pop It Escape Rooms Challenge\n\nKids Diana Show - http://bit.ly/2k7NrSx\n\nhttps://www.instagram.com/kidsdianashow/\n\nhttps://www.facebook.com/KidsDianaShowOfficial/\n\n#dianaandroma"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1H6M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "16866520",
+    "likeCount": "17697",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/27-06u-tP84\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
