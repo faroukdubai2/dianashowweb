@@ -1,0 +1,94 @@
+{
+  "kind": "youtube#video",
+  "etag": "-MqDrApdWwU7GV_ICp5zLB2Q63I",
+  "id": "ymVIRymOgvE",
+  "snippet": {
+    "publishedAt": "2018-08-01T06:09:51Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Диана и Папа одни дома Видео для детей / Papa Left Alone With Diana",
+    "description": "Веселая история о том, как папа с дочкой остались дома одни! \nМама ушла по делам и впервые оставила Диану с папой. Папа понятия не имеет что ему делать с ребенком. Конечно же Диана подсказывает ему, но оказывается что у самой дочки все получается гораздо лучше чем у Папы. Видео для детей\nPapa Left Alone With Diana, video for kids \nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на наши каналы:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ymVIRymOgvE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ymVIRymOgvE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ymVIRymOgvE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ymVIRymOgvE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ymVIRymOgvE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана и папа",
+      "одни дома",
+      "видео для детей",
+      "diana and papa",
+      "home alone",
+      "papa",
+      "Left Alone",
+      "baby",
+      "diana",
+      "kids video",
+      "диана",
+      "папа",
+      "рома и диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Диана и Папа одни дома Видео для детей / Papa Left Alone With Diana",
+      "description": "Веселая история о том, как папа с дочкой остались дома одни! \nМама ушла по делам и впервые оставила Диану с папой. Папа понятия не имеет что ему делать с ребенком. Конечно же Диана подсказывает ему, но оказывается что у самой дочки все получается гораздо лучше чем у Папы. Видео для детей\nPapa Left Alone With Diana, video for kids \nInstagram Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на наши каналы:\nKids Diana Show - http://bit.ly/2k7NrSx\nKids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT7M10S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "175589126",
+    "likeCount": "564851",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ymVIRymOgvE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
