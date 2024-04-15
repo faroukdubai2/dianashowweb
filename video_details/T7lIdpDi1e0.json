@@ -1,0 +1,116 @@
+{
+  "kind": "youtube#video",
+  "etag": "GsJD7QPIb8IlBsfgsPpFAWzPnHI",
+  "id": "T7lIdpDi1e0",
+  "snippet": {
+    "publishedAt": "2016-06-17T06:05:55Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "VLOG РУМ ТУР ПО ДОМУ + КОНКУРС от Дианы",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/T7lIdpDi1e0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/T7lIdpDi1e0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/T7lIdpDi1e0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/T7lIdpDi1e0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "дом",
+      "ТУР",
+      "ПО ДОМУ",
+      "Home",
+      "House Tour",
+      "house",
+      "home",
+      "tour",
+      "room tour",
+      "funny",
+      "room",
+      "cute",
+      "fun",
+      "2016",
+      "family",
+      "kids",
+      "bedroom",
+      "Tour Room",
+      "summer cottage",
+      "Кids Video",
+      "домик",
+      "развивающие мультики",
+      "сюрпризы для детей",
+      "видео для детей",
+      "детский влог",
+      "киндер сюрприз",
+      "игрушки",
+      "обзор игрушек",
+      "VLOG",
+      "распаковка",
+      "Diana",
+      "Toys Review",
+      "for children",
+      "for kids",
+      "online",
+      "unboxing videos",
+      "детская комната",
+      "Диана",
+      "Кидс Диана Шоу",
+      "Kids Diana Show",
+      "дом Дианы",
+      "Рома"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "VLOG РУМ ТУР ПО ДОМУ + КОНКУРС от Дианы",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT15M30S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "687199",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/T7lIdpDi1e0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
