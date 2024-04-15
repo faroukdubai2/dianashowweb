@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#video",
+  "etag": "CsOmGhd5WGEDE9PRSSmDWpNu44s",
+  "id": "uOfS1I_l9-A",
+  "snippet": {
+    "publishedAt": "2016-07-06T03:24:12Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Строим ПЕСОЧНИЦУ из Огромного LEGO Для Детей ЛЕГО Конструктор New LEGO Toys Unboxing",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uOfS1I_l9-A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uOfS1I_l9-A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uOfS1I_l9-A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/uOfS1I_l9-A/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/uOfS1I_l9-A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "песок",
+      "песочница",
+      "большой",
+      "конструктор",
+      "лего",
+      "песок для детей",
+      "battat",
+      "игрушки",
+      "баттат",
+      "для игры в песочнице",
+      "toys Battat",
+      "Battat toy",
+      "on the beach game",
+      "Battat",
+      "beach",
+      "игрушки для песка",
+      "lego",
+      "Diana",
+      "Диана",
+      "Kids Diana Show",
+      "видео для детей",
+      "unboxing videos",
+      "VLOG",
+      "Toys Review",
+      "for kids",
+      "строить",
+      "sand",
+      "диана шоу",
+      "игры с песком",
+      "и водой",
+      "constructor",
+      "play with sand"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Строим ПЕСОЧНИЦУ из Огромного LEGO Для Детей ЛЕГО Конструктор New LEGO Toys Unboxing",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT12M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "8723022",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/uOfS1I_l9-A\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
