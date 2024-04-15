@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "63oGtxS5jAWWrbuwb7X7mrPQ8Yg",
+  "id": "CzjnKhF8ev4",
+  "snippet": {
+    "publishedAt": "2018-10-30T07:00:01Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Pretend Play Halloween Trick or Treat Candy Haul",
+    "description": "Diana Pretend Play Halloween trick or treating for candy haul. The little girl knocks on the door and says “Trick or Treat!”. Doors open hosts dressed in terrifying costumes. Diana was scared, but she was brave girl and gathered a lot of candy! Happy Halloween!...\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/CzjnKhF8ev4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/CzjnKhF8ev4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/CzjnKhF8ev4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/CzjnKhF8ev4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/CzjnKhF8ev4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "halloween",
+      "trick or treat",
+      "candy",
+      "trick or treating",
+      "candy haul",
+      "halloween kids",
+      "pretend play",
+      "for kids",
+      "diana",
+      "рома и диана",
+      "диана"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana Pretend Play Halloween Trick or Treat Candy Haul",
+      "description": "Diana Pretend Play Halloween trick or treating for candy haul. The little girl knocks on the door and says “Trick or Treat!”. Doors open hosts dressed in terrifying costumes. Diana was scared, but she was brave girl and gathered a lot of candy! Happy Halloween!...\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "551362983",
+    "likeCount": "1670518",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/CzjnKhF8ev4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
