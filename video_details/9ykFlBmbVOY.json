@@ -1,0 +1,103 @@
+{
+  "kind": "youtube#video",
+  "etag": "OgMz3jWj2qSBmVMT1Xc0FXOhytc",
+  "id": "9ykFlBmbVOY",
+  "snippet": {
+    "publishedAt": "2018-04-14T06:00:31Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Приключение Дианы и ее Игрушек в лесу!",
+    "description": "Маленькая Диана приехала на дачу. Девочка играла и катала кукол в колясочке. Вдруг с ней случилось неожиданное приключение. Что случилось с Дианой и куда делись ее игрушки? Смотрите в этом веселом видео для детей!\nDiana playing with Baby Doll. Unexpected adventure with #toys\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\n#Kids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9ykFlBmbVOY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9ykFlBmbVOY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9ykFlBmbVOY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/9ykFlBmbVOY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/9ykFlBmbVOY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "приключение",
+      "игрушек",
+      "игрушки",
+      "диана",
+      "развлекательное видео",
+      "для детей",
+      "видео для детей",
+      "рома и диана",
+      "diana",
+      "playing",
+      "baby doll",
+      "unexpected adventure",
+      "toys",
+      "for children",
+      "video for kids",
+      "for kids",
+      "kids toys",
+      "kids video",
+      "kids",
+      "roma and diana",
+      "pretend play",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Приключение Дианы и ее Игрушек в лесу!",
+      "description": "Маленькая Диана приехала на дачу. Девочка играла и катала кукол в колясочке. Вдруг с ней случилось неожиданное приключение. Что случилось с Дианой и куда делись ее игрушки? Смотрите в этом веселом видео для детей!\nDiana playing with Baby Doll. Unexpected adventure with #toys\nИнстаграм Дианы: https://www.instagram.com/kidsdianashow/\nПодписка на канал:\nKids Diana Show - http://bit.ly/2k7NrSx\n#Kids Roma Show - http://bit.ly/2kj62uh Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT3M22S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3972339",
+    "likeCount": "11057",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/9ykFlBmbVOY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
