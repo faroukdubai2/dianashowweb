@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "3sIpZZoIIfbZE9eQFSfKboAnV6k",
+  "id": "o_98iGqKxuE",
+  "snippet": {
+    "publishedAt": "2021-12-03T12:22:12Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma talk about their favorite holidays",
+    "description": "Diana and Roma will talk about their favorite holidays. \nLet's find out together about your favorite holidays in this educational children's video.\nNational Hugging Day is an annual event dedicated to hugging. The idea of National Hug Day is to encourage everyone to hug family and friends more often.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/o_98iGqKxuE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/o_98iGqKxuE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/o_98iGqKxuE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/o_98iGqKxuE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/o_98iGqKxuE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "cartoon",
+      "roma and diana",
+      "diana roma",
+      "kids videos",
+      "kids animation",
+      "kids entertainment",
+      "kids education",
+      "preschool",
+      "kindergarten",
+      "toddler",
+      "diana and roma english"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-US",
+    "localized": {
+      "title": "Diana and Roma talk about their favorite holidays",
+      "description": "Diana and Roma will talk about their favorite holidays. \nLet's find out together about your favorite holidays in this educational children's video.\nNational Hugging Day is an annual event dedicated to hugging. The idea of National Hug Day is to encourage everyone to hug family and friends more often.\nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/\n#DianaandRoma Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT5M20S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "11867555",
+    "likeCount": "24956",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/o_98iGqKxuE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
