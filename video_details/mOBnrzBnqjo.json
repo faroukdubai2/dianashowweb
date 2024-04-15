@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#video",
+  "etag": "BZMe49AT4OjVt1EiNlxkWrwIIHo",
+  "id": "mOBnrzBnqjo",
+  "snippet": {
+    "publishedAt": "2016-09-25T06:09:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "ВЛОГ Наше ВОСКРЕСЕНЬЕ Диана и Рома на Игровой Детской Площадке",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mOBnrzBnqjo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mOBnrzBnqjo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mOBnrzBnqjo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/mOBnrzBnqjo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана и рома",
+      "рома и диана",
+      "диана",
+      "ВЛОГ",
+      "Наше ВОСКРЕСЕНЬЕ",
+      "на Игровой Детской Площадке",
+      "видео для детей",
+      "детский канал",
+      "детская площадка",
+      "развлечения для детей",
+      "на детской площадке"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "ВЛОГ Наше ВОСКРЕСЕНЬЕ Диана и Рома на Игровой Детской Площадке",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT10M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "3866949",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/mOBnrzBnqjo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
