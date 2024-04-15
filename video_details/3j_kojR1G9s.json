@@ -1,0 +1,98 @@
+{
+  "kind": "youtube#video",
+  "etag": "LS3A6EOJ7P9lhWlbE8PX26bcKQ4",
+  "id": "3j_kojR1G9s",
+  "snippet": {
+    "publishedAt": "2018-11-22T07:02:53Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana Pretend Cooking With Cute Kitchen toys",
+    "description": "Diana and Roma Pretend Cooking With Cute Kitchen toys. Children are playing in cafe. This is a pretend play cafe which has lots of delicious food! Diana's cafe just opened and her first visitor came to her. But suddenly a competitor appears - brother Roma also opened his cafe. Kids cooking the most delicious dishes to please the only visitor and lure him to themselves.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3j_kojR1G9s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3j_kojR1G9s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3j_kojR1G9s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3j_kojR1G9s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/3j_kojR1G9s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "диана",
+      "diana",
+      "pretend cooking",
+      "pretend play",
+      "kids toys",
+      "toys",
+      "toy",
+      "kitchen toy",
+      "kitchen",
+      "for kids",
+      "girl toys",
+      "pretend food",
+      "kids video",
+      "kids",
+      "play",
+      "playing"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diana Pretend Cooking With Cute Kitchen toys",
+      "description": "Diana and Roma Pretend Cooking With Cute Kitchen toys. Children are playing in cafe. This is a pretend play cafe which has lots of delicious food! Diana's cafe just opened and her first visitor came to her. But suddenly a competitor appears - brother Roma also opened his cafe. Kids cooking the most delicious dishes to please the only visitor and lure him to themselves.\nDiana`s INSTAGRAM https://www.instagram.com/kidsdianashow/\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT11M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "342978296",
+    "likeCount": "825932",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/3j_kojR1G9s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Food",
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
