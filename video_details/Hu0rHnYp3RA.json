@@ -1,0 +1,104 @@
+{
+  "kind": "youtube#video",
+  "etag": "__ovw5ReeO97ays5_XuaodQHEjI",
+  "id": "Hu0rHnYp3RA",
+  "snippet": {
+    "publishedAt": "2021-04-06T08:05:23Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Diana and Roma Learn about Bees, HATTA Honey Bee Garden Tour - Fun family trip",
+    "description": "Diana and Roma Learn about Bees, HATTA Honey Bee Garden Tour!\nDiana and Roma learned about the different jobs that the bees have and the process that they use to make honey.  It was such a great experience to be able to hold a frame covered in bees.  After our tour of the Hatta #Honey #Bee Garden, we went inside to sample the honey. The honey was delicious!  The tour, honey, and whole experience was fantastic. \nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Hu0rHnYp3RA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Hu0rHnYp3RA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Hu0rHnYp3RA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Hu0rHnYp3RA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Hu0rHnYp3RA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "diana and roma",
+      "diana",
+      "roma and diana",
+      "diana y roma",
+      "diana roma",
+      "learn about bees",
+      "bees",
+      "bee",
+      "honey",
+      "honey bee",
+      "hatta honey",
+      "hatta honey bee garden",
+      "hatta honey bee",
+      "hatta",
+      "honey in dubai",
+      "dubai",
+      "family trip",
+      "family fun",
+      "entertainment for kids",
+      "kids video",
+      "journey",
+      "kids play",
+      "диана",
+      "kids diana show"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Diana and Roma Learn about Bees, HATTA Honey Bee Garden Tour - Fun family trip",
+      "description": "Diana and Roma Learn about Bees, HATTA Honey Bee Garden Tour!\nDiana and Roma learned about the different jobs that the bees have and the process that they use to make honey.  It was such a great experience to be able to hold a frame covered in bees.  After our tour of the Hatta #Honey #Bee Garden, we went inside to sample the honey. The honey was delicious!  The tour, honey, and whole experience was fantastic. \nThanks for watching!\nSubscribe to Kids Diana Show - http://bit.ly/2k7NrSx\nDIANA Instagram https://www.instagram.com/kidsdianashow/\nROMA Instagram https://www.instagram.com/kidsromashow/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT7M18S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "125603204",
+    "likeCount": "591211",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Hu0rHnYp3RA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+      "https://en.wikipedia.org/wiki/Tourism"
+    ]
+  },
+  "recordingDetails": {}
+}
