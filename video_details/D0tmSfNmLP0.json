@@ -1,0 +1,116 @@
+{
+  "kind": "youtube#video",
+  "etag": "sm9Ahgj3ZvLX2BlMgKA-ubN1uMI",
+  "id": "D0tmSfNmLP0",
+  "snippet": {
+    "publishedAt": "2016-06-06T03:29:35Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "НОВЫЙ Игровой ДОМИК Дианы и Кукла Божья Коровка Playhouse for children dolls Ladybird unboxing",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/D0tmSfNmLP0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/D0tmSfNmLP0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/D0tmSfNmLP0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/D0tmSfNmLP0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "дом",
+      "домик",
+      "куклы",
+      "игровой домик",
+      "ladybird Doll",
+      "Anne Geddes Ladybug",
+      "ladybug doll",
+      "видео для детей",
+      "the Gaming House",
+      "детский влог",
+      "игрушки",
+      "обзор игрушек",
+      "распаковка",
+      "for children",
+      "for kids",
+      "unboxing videos",
+      "игрушечный домик",
+      "Toy House",
+      "Anne Geddes",
+      "house",
+      "toy",
+      "unboxing",
+      "кукла",
+      "baby",
+      "cute",
+      "babies",
+      "newborn",
+      "Анна Гедис",
+      "божья коровка",
+      "ladybird",
+      "ladybug",
+      "Ladybird Baby Beanie",
+      "unimax",
+      "diana show",
+      "doll",
+      "baby doll",
+      "Кидс Диана Шоу",
+      "playhouses for children",
+      "Diana",
+      "Диана",
+      "рома",
+      "диана шоу",
+      "dolls"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "НОВЫЙ Игровой ДОМИК Дианы и Кукла Божья Коровка Playhouse for children dolls Ladybird unboxing",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    }
+  },
+  "contentDetails": {
+    "duration": "PT8M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "13009114",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/D0tmSfNmLP0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
