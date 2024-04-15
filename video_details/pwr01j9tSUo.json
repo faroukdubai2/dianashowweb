@@ -1,0 +1,105 @@
+{
+  "kind": "youtube#video",
+  "etag": "CSRkFbjycj9YiTy4Sym5ZCQL2S4",
+  "id": "pwr01j9tSUo",
+  "snippet": {
+    "publishedAt": "2016-12-16T15:00:13Z",
+    "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+    "title": "Красим Кинетический Песок в разные цвета - Супер набор для детей",
+    "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pwr01j9tSUo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pwr01j9tSUo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pwr01j9tSUo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/pwr01j9tSUo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "✿ Kids Diana Show",
+    "tags": [
+      "Кинетический Песок",
+      "ЦВЕТНОЙ",
+      "Песок",
+      "Делаем сами",
+      "Видео для Детей",
+      "Диана",
+      "Diana",
+      "Рома и Диана",
+      "диана шоу",
+      "Learn Colors",
+      "Kinetic Sand",
+      "kinetic sand playset",
+      "kinetic",
+      "sand",
+      "learn",
+      "colors",
+      "slime",
+      "kinetic sand diy",
+      "распаковка",
+      "много игрушек",
+      "влог",
+      "детский канал",
+      "обзор игрушек",
+      "Toys",
+      "Review",
+      "vlog",
+      "супер",
+      "Kids Diana Show",
+      "kids",
+      "Video for Kids"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ru",
+    "localized": {
+      "title": "Красим Кинетический Песок в разные цвета - Супер набор для детей",
+      "description": "Facebook https://www.facebook.com/KidsDianaShowOfficial/ Facebook https://www.facebook.com/KidsDianaShowOfficial/"
+    },
+    "defaultAudioLanguage": "ru"
+  },
+  "contentDetails": {
+    "duration": "PT8M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false,
+    "madeForKids": true
+  },
+  "statistics": {
+    "viewCount": "1699226",
+    "favoriteCount": "0"
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pwr01j9tSUo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Hobby",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  },
+  "recordingDetails": {}
+}
