@@ -1,6 +1,6 @@
 {
   "kind": "youtube#video",
-  "etag": "tkulEhLwl6oFQkNlOmlrhYrcWQI",
+  "etag": "94SnaJ6GQ3QPjA_QlV41SGKKnEQ",
   "id": "xiMoWqpbT_o",
   "snippet": {
     "publishedAt": "2024-04-24T12:00:55Z",
@@ -72,8 +72,8 @@
     "madeForKids": true
   },
   "statistics": {
-    "viewCount": "268892",
-    "likeCount": "1251",
+    "viewCount": "269080",
+    "likeCount": "1252",
     "favoriteCount": "0"
   },
   "player": {
